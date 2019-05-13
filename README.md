@@ -1,4 +1,12 @@
 # Practices
 
-### EDA
-### Scrape
+### - EDA
+### - Scrape
+
+### - Pandas
+### - Matplotlib
+### - Calmap
+### - Requests
+### - BeautifulSoup
+### - Json
+### - Etc
