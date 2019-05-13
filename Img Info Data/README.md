@@ -1,7 +1,7 @@
 # Plus
 
-![Graph](img/1.jpg)
+![Graph](1.jpg)
 
-![Graph](img/2.jpg)
+![Graph](2.jpg)
 
-![Graph](img/3.jpg)
+![Graph](3.jpg)
