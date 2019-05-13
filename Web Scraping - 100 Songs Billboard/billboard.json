@@ -1,0 +1,502 @@
+[
+    {
+        "Puesto": "1",
+        "Tema": "Old Town Road",
+        "cantante": "Lil Nas X Featuring Billy Ray Cyrus"
+    },
+    {
+        "Puesto": "2",
+        "Tema": "ME!",
+        "cantante": "Taylor Swift Featuring Brendon Urie"
+    },
+    {
+        "Puesto": "3",
+        "Tema": "Wow.",
+        "cantante": "Post Malone"
+    },
+    {
+        "Puesto": "4",
+        "Tema": "Sucker",
+        "cantante": "Jonas Brothers"
+    },
+    {
+        "Puesto": "5",
+        "Tema": "Sunflower (Spider-Man: Into The Spider-Verse)",
+        "cantante": "Post Malone & Swae Lee"
+    },
+    {
+        "Puesto": "6",
+        "Tema": "7 Rings",
+        "cantante": "Ariana Grande"
+    },
+    {
+        "Puesto": "7",
+        "Tema": "Without Me",
+        "cantante": "Halsey"
+    },
+    {
+        "Puesto": "8 ",
+        "Tema": "Dancing With A Stranger",
+        "cantante": "Sam Smith & Normani"
+    },
+    {
+        "Puesto": "9",
+        "Tema": "Bad Guy",
+        "cantante": "Billie Eilish"
+    },
+    {
+        "Puesto": "10",
+        "Tema": "Talk",
+        "cantante": "Khalid"
+    },
+    {
+        "Puesto": "11",
+        "Tema": "Sweet But Psycho",
+        "cantante": "Ava Max"
+    },
+    {
+        "Puesto": "12",
+        "Tema": "Middle Child",
+        "cantante": "J. Cole"
+    },
+    {
+        "Puesto": "13",
+        "Tema": "Break Up With Your Girlfriend, I'm Bored",
+        "cantante": "Ariana Grande"
+    },
+    {
+        "Puesto": "14",
+        "Tema": "Happier",
+        "cantante": "Marshmello & Bastille"
+    },
+    {
+        "Puesto": "15",
+        "Tema": "Shallow",
+        "cantante": "Lady Gaga & Bradley Cooper "
+    },
+    {
+        "Puesto": "16",
+        "Tema": "Going Bad",
+        "cantante": "Meek Mill Featuring Drake"
+    },
+    {
+        "Puesto": "17",
+        "Tema": "Eastside",
+        "cantante": "benny blanco, Halsey & Khalid"
+    },
+    {
+        "Puesto": "18",
+        "Tema": "High Hopes",
+        "cantante": "Panic! At The Disco"
+    },
+    {
+        "Puesto": "19",
+        "Tema": "Please Me",
+        "cantante": "Cardi B & Bruno Mars"
+    },
+    {
+        "Puesto": "20",
+        "Tema": "Better",
+        "cantante": "Khalid"
+    },
+    {
+        "Puesto": "21",
+        "Tema": "Girls Like You",
+        "cantante": "Maroon 5 Featuring Cardi B"
+    },
+    {
+        "Puesto": "22",
+        "Tema": "A Lot",
+        "cantante": "21 Savage"
+    },
+    {
+        "Puesto": "23",
+        "Tema": "Pure Water",
+        "cantante": "Mustard & Migos"
+    },
+    {
+        "Puesto": "24",
+        "Tema": "Sicko Mode",
+        "cantante": "Travis Scott"
+    },
+    {
+        "Puesto": "25",
+        "Tema": "Thotiana",
+        "cantante": "Blueface"
+    },
+    {
+        "Puesto": "26",
+        "Tema": "Be Alright",
+        "cantante": "Dean Lewis"
+    },
+    {
+        "Puesto": "27",
+        "Tema": "Suge",
+        "cantante": "DaBaby"
+    },
+    {
+        "Puesto": "28",
+        "Tema": "Beautiful Crazy",
+        "cantante": "Luke Combs"
+    },
+    {
+        "Puesto": "29",
+        "Tema": "Look Back At It",
+        "cantante": "A Boogie Wit da Hoodie"
+    },
+    {
+        "Puesto": "30",
+        "Tema": "Act Up",
+        "cantante": "City Girls"
+    },
+    {
+        "Puesto": "31",
+        "Tema": "Here With Me",
+        "cantante": "Marshmello Featuring CHVRCHES"
+    },
+    {
+        "Puesto": "32",
+        "Tema": "Envy Me",
+        "cantante": "Calboy"
+    },
+    {
+        "Puesto": "33",
+        "Tema": "Whiskey Glasses",
+        "cantante": "Morgan Wallen"
+    },
+    {
+        "Puesto": "34",
+        "Tema": "God's Country",
+        "cantante": "Blake Shelton"
+    },
+    {
+        "Puesto": "35",
+        "Tema": "Con Calma",
+        "cantante": "Daddy Yankee & Katy Perry Featuring Snow"
+    },
+    {
+        "Puesto": "36",
+        "Tema": "Close To Me",
+        "cantante": "Ellie Goulding X Diplo Featuring Swae Lee "
+    },
+    {
+        "Puesto": "37",
+        "Tema": "Drip Too Hard",
+        "cantante": "Lil Baby & Gunna"
+    },
+    {
+        "Puesto": "38",
+        "Tema": "Eyes On You ",
+        "cantante": "Chase Rice"
+    },
+    {
+        "Puesto": "39",
+        "Tema": "When The Party's Over",
+        "cantante": "Billie Eilish"
+    },
+    {
+        "Puesto": "40",
+        "Tema": "Boy With Luv",
+        "cantante": "BTS Featuring Halsey"
+    },
+    {
+        "Puesto": "41",
+        "Tema": "Earth",
+        "cantante": "Lil Dicky"
+    },
+    {
+        "Puesto": "42",
+        "Tema": "Sanguine Paradise",
+        "cantante": "Lil Uzi Vert"
+    },
+    {
+        "Puesto": "43",
+        "Tema": "You Say",
+        "cantante": "Lauren Daigle"
+    },
+    {
+        "Puesto": "44",
+        "Tema": "Murder On My Mind",
+        "cantante": "YNW Melly"
+    },
+    {
+        "Puesto": "45",
+        "Tema": "Bury A Friend",
+        "cantante": "Billie Eilish"
+    },
+    {
+        "Puesto": "46",
+        "Tema": "Good As You",
+        "cantante": "Kane Brown"
+    },
+    {
+        "Puesto": "47",
+        "Tema": "Clout",
+        "cantante": "Offset Featuring Cardi B"
+    },
+    {
+        "Puesto": "48",
+        "Tema": "Thank U, Next",
+        "cantante": "Ariana Grande"
+    },
+    {
+        "Puesto": "49 ",
+        "Tema": "Walk Me Home",
+        "cantante": "P!nk"
+    },
+    {
+        "Puesto": "50",
+        "Tema": "Youngblood",
+        "cantante": "5 Seconds Of Summer"
+    },
+    {
+        "Puesto": "51",
+        "Tema": "Pop Out",
+        "cantante": "Polo G Featuring Lil Tjay"
+    },
+    {
+        "Puesto": "52",
+        "Tema": "Who Do You Love",
+        "cantante": "The Chainsmokers Featuring 5 Seconds Of Summer"
+    },
+    {
+        "Puesto": "53",
+        "Tema": "Look What God Gave Her",
+        "cantante": "Thomas Rhett"
+    },
+    {
+        "Puesto": "54",
+        "Tema": "Here Tonight",
+        "cantante": "Brett Young"
+    },
+    {
+        "Puesto": "55",
+        "Tema": "Baby Shark",
+        "cantante": "Pinkfong"
+    },
+    {
+        "Puesto": "56",
+        "Tema": "Close Friends",
+        "cantante": "Lil Baby"
+    },
+    {
+        "Puesto": "57",
+        "Tema": "Worth It",
+        "cantante": "YK Osiris"
+    },
+    {
+        "Puesto": "58",
+        "Tema": "Swervin",
+        "cantante": "A Boogie Wit da Hoodie Featuring 6ix9ine"
+    },
+    {
+        "Puesto": "59",
+        "Tema": "Night Shift",
+        "cantante": "Jon Pardi"
+    },
+    {
+        "Puesto": "60",
+        "Tema": "Love Ain't",
+        "cantante": "Eli Young Band"
+    },
+    {
+        "Puesto": "61",
+        "Tema": "Rumor",
+        "cantante": "Lee Brice"
+    },
+    {
+        "Puesto": "62",
+        "Tema": "Miss Me More",
+        "cantante": "Kelsea Ballerini"
+    },
+    {
+        "Puesto": "63",
+        "Tema": "Racks In The Middle",
+        "cantante": "Nipsey Hussle Featuring Roddy Ricch & Hit-Boy"
+    },
+    {
+        "Puesto": "64",
+        "Tema": "Make It Sweet",
+        "cantante": "Old Dominion"
+    },
+    {
+        "Puesto": "65",
+        "Tema": " Before I Let Go",
+        "cantante": "Beyonce"
+    },
+    {
+        "Puesto": "66",
+        "Tema": "Hey Look Ma, I Made It",
+        "cantante": "Panic! At The Disco"
+    },
+    {
+        "Puesto": "67",
+        "Tema": "Floating",
+        "cantante": "ScHoolboy Q Featuring 21 Savage"
+    },
+    {
+        "Puesto": "68",
+        "Tema": "Robbery",
+        "cantante": "Juice WRLD"
+    },
+    {
+        "Puesto": "69",
+        "Tema": "Baila Baila Baila",
+        "cantante": "Ozuna x Daddy Yankee x J Balvin x Farruko x Anuel AA"
+    },
+    {
+        "Puesto": "70",
+        "Tema": "Big Ole Freak",
+        "cantante": " Megan Thee Stallion"
+    },
+    {
+        "Puesto": "71",
+        "Tema": "Don't Call Me Up",
+        "cantante": "Mabel"
+    },
+    {
+        "Puesto": "72",
+        "Tema": "Cool",
+        "cantante": "Jonas Brothers"
+    },
+    {
+        "Puesto": "73",
+        "Tema": "Calma",
+        "cantante": "Pedro Capo X Farruko"
+    },
+    {
+        "Puesto": "74",
+        "Tema": "Girls Need Love",
+        "cantante": "Summer Walker X Drake"
+    },
+    {
+        "Puesto": "75",
+        "Tema": "GIRL",
+        "cantante": "Maren Morris"
+    },
+    {
+        "Puesto": "76",
+        "Tema": "Mixed Personalities",
+        "cantante": "YNW Melly Featuring Kanye West"
+    },
+    {
+        "Puesto": "77",
+        "Tema": "That's A Rack",
+        "cantante": "Lil Uzi Vert"
+    },
+    {
+        "Puesto": "78",
+        "Tema": "I've Been Waiting",
+        "cantante": "Lil Peep & iLoveMakonnen Featuring Fall Out Boy"
+    },
+    {
+        "Puesto": "79",
+        "Tema": "Wish You Were Gay",
+        "cantante": "Billie Eilish"
+    },
+    {
+        "Puesto": "80",
+        "Tema": "You Should See Me In A Crown",
+        "cantante": "Billie Eilish"
+    },
+    {
+        "Puesto": "81",
+        "Tema": "Put A Date On It",
+        "cantante": "Yo Gotti Featuring Lil Baby"
+    },
+    {
+        "Puesto": "82",
+        "Tema": "Talk You Out Of It",
+        "cantante": "Florida Georgia Line"
+    },
+    {
+        "Puesto": "83",
+        "Tema": "I'm So Tired...",
+        "cantante": "Lauv & Troye Sivan"
+    },
+    {
+        "Puesto": "84",
+        "Tema": "On My Way To You",
+        "cantante": "Cody Johnson"
+    },
+    {
+        "Puesto": "85",
+        "Tema": "CHopstix",
+        "cantante": "ScHoolboy Q + Travis Scott"
+    },
+    {
+        "Puesto": "86",
+        "Tema": "Shotta Flow",
+        "cantante": "NLE Choppa"
+    },
+    {
+        "Puesto": "87",
+        "Tema": "Shot Clock",
+        "cantante": "Ella Mai"
+    },
+    {
+        "Puesto": "88",
+        "Tema": "Ocean Eyes",
+        "cantante": "Billie Eilish"
+    },
+    {
+        "Puesto": "89",
+        "Tema": "Secreto",
+        "cantante": "Anuel AA & Karol G"
+    },
+    {
+        "Puesto": "90",
+        "Tema": "Light It Up",
+        "cantante": "Marshmello, Tyga & Chris Brown"
+    },
+    {
+        "Puesto": "91",
+        "Tema": "Love Someone",
+        "cantante": "Brett Eldredge"
+    },
+    {
+        "Puesto": "92",
+        "Tema": "Power Is Power",
+        "cantante": "SZA, The Weeknd & Travis Scott"
+    },
+    {
+        "Puesto": "93",
+        "Tema": "Faucet Failure",
+        "cantante": "Ski Mask The Slump God"
+    },
+    {
+        "Puesto": "94",
+        "Tema": "Knockin' Boots",
+        "cantante": "Luke Bryan"
+    },
+    {
+        "Puesto": "95",
+        "Tema": "Numb Numb Juice",
+        "cantante": "ScHoolboy Q"
+    },
+    {
+        "Puesto": "96",
+        "Tema": "Love Me Anyway",
+        "cantante": "P!nk Featuring Chris Stapleton"
+    },
+    {
+        "Puesto": "97",
+        "Tema": "24/7",
+        "cantante": "Meek Mill Featuring Ella Mai"
+    },
+    {
+        "Puesto": "98",
+        "Tema": "Stop Snitching",
+        "cantante": "YG"
+    },
+    {
+        "Puesto": "99",
+        "Tema": "SOS",
+        "cantante": "Avicii Featuring Aloe Blacc "
+    },
+    {
+        "Puesto": "100",
+        "Tema": "Kill This Love",
+        "cantante": "BLACKPINK"
+    }
+]
