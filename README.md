@@ -1,1 +1,4 @@
-# Web-scraping
+# Practices
+
+### EDA
+### Scrape
