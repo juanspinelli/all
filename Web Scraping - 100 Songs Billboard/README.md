@@ -2,7 +2,11 @@
 
 ## The goal is to create a dataset with new information using only the name of the singer and the song's name. To obtain the additions information I use Deezer's api and automated google searches.
 
+### Initial information
+
 ![Graph](img/1.png)
+
+### Final information
 
 ![Graph](img/2.png)
 
