@@ -3,10 +3,12 @@
 ### - EDA
 ### - Scrape
 
-### - Pandas
-### - Matplotlib
-### - Calmap
-### - Requests
-### - BeautifulSoup
-### - Json
-### - Etc
+#### - Pandas
+#### - Numpy
+#### - Matplotlib
+#### - Seaborn
+#### - Calmap
+#### - Requests
+#### - BeautifulSoup
+#### - Json
+#### - Etc
