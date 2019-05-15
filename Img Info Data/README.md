@@ -6,12 +6,12 @@
 
 ![Graph](3.png)
 
-![Graph](4.png)
+![Graph](4.jpg)
 
-![Graph](5.png)
+![Graph](5.jpg)
 
-![Graph](6.png)
+![Graph](6.jpg)
 
-![Graph](7.png)
+![Graph](7.jpg)
 
-![Graph](8.png)
+![Graph](8.jpg)
