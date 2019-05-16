@@ -1,302 +1,5 @@
 [
     {
-        "Altura": "193 cm",
-        "Edad": "28 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "26-01-1991",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Esteban Andrada",
-        "Pais": "Argentina",
-        "Posicion": "Portero",
-        "Provincia": "Mendoza"
-    },
-    {
-        "Altura": "186 cm",
-        "Edad": "33 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "05-02-1986",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Marcos Guillermo DÃ­az",
-        "Pais": "Argentina",
-        "Posicion": "Portero",
-        "Provincia": "Santa Fe"
-    },
-    {
-        "Altura": "187 cm",
-        "Edad": "22 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "05-03-1997",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Javier Bustillos",
-        "Pais": "Argentina",
-        "Posicion": "Portero",
-        "Provincia": "Santos Lugares"
-    },
-    {
-        "Altura": "Marcelo Alexis",
-        "Edad": "19 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "11-01-2000",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "Marcelo Alexis Weigandt",
-        "Pais": "Argentina",
-        "Posicion": "175 cm",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "184 cm",
-        "Edad": "34 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "12-05-1985",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Paolo Duval Goltz",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Hasenkamp"
-    },
-    {
-        "Altura": "184 cm",
-        "Edad": "30 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "03-11-1988",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Carlos Roberto Izquierdoz",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "San Carlos de Bariloche"
-    },
-    {
-        "Altura": "185 cm",
-        "Edad": "26 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "09-02-1993",
-        "Nacionalidad": "Paraguay",
-        "Nombre_Completo": "JÃºnior Osmar Ignacio Alonso Mujica",
-        "Pais": "Paraguay",
-        "Posicion": "Defensa",
-        "Provincia": "AsunciÃ³n"
-    },
-    {
-        "Altura": "183 cm",
-        "Edad": "30 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "15-01-1989",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Emmanuel David Mas Sgros",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "San Juan"
-    },
-    {
-        "Altura": "187 cm",
-        "Edad": "29 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "01-09-1989",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Lisandro Ezequiel LÃ³pez Dessypris",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Villa ConstituciÃ³n"
-    },
-    {
-        "Altura": "172 cm",
-        "Edad": "28 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "22-02-1991",
-        "Nacionalidad": "Colombia",
-        "Nombre_Completo": "Frank Yusty Fabra Palacios",
-        "Pais": "Colombia",
-        "Posicion": "Defensa",
-        "Provincia": "NechÃ­"
-    },
-    {
-        "Altura": "172 cm",
-        "Edad": "30 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "18-08-1988",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Julio Buffarini",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "General Cabrera"
-    },
-    {
-        "Altura": "172 cm",
-        "Edad": "21 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "07-11-1997",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Kevin Mac Allister",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Capital Federal"
-    },
-    {
-        "Altura": "181 cm",
-        "Edad": "21 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "13-01-1998",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "JuliÃ¡n Antonio Chicco",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Brinkmann, CÃ³rdoba"
-    },
-    {
-        "Altura": "171 cm",
-        "Edad": "23 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "28-12-1995",
-        "Nacionalidad": "Uruguay, Italia",
-        "Nombre_Completo": "Nahitan Michel Nandez Acosta",
-        "Pais": "Uruguay",
-        "Posicion": "Centrocampista",
-        "Provincia": "Maldonado"
-    },
-    {
-        "Altura": "184 cm",
-        "Edad": "28 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "03-06-1990",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "IvÃ¡n JosÃ© Marcone",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Buenos Aires"
-    },
-    {
-        "Altura": "173 cm",
-        "Edad": "23 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "16-11-1995",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Emanuel Reynoso",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Ciudad de Cordoba"
-    },
-    {
-        "Altura": "75 kilogramos",
-        "Edad": "19 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "11-02-2000",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "AgustÃ­n Ezequiel Almendra",
-        "Pais": "Argentina",
-        "Posicion": "182 cm",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "175 cm",
-        "Edad": "23 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "30-04-1996",
-        "Nacionalidad": "Colombia",
-        "Nombre_Completo": "Jorman David Campuzano Puentes",
-        "Pais": "Colombia",
-        "Posicion": "Centrocampista",
-        "Provincia": "Tamalameque"
-    },
-    {
-        "Altura": "73 kilogramos",
-        "Edad": "21 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "14-09-1997",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "NicolÃ¡s Capaldo Taboas",
-        "Pais": "Argentina",
-        "Posicion": "177 cm",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "173 cm",
-        "Edad": "35 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "05-02-1984",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Carlos Alberto MartÃ­nez TÃ©vez",
-        "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Ciudadela, Buenos Aires (Argentina)"
-    },
-    {
-        "Altura": "180 cm",
-        "Edad": "22 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "19-05-1996",
-        "Nacionalidad": "Colombia",
-        "Nombre_Completo": "Sebastian Vila Cano",
-        "Pais": "Colombia",
-        "Posicion": "Delantero",
-        "Provincia": "Bello"
-    },
-    {
-        "Altura": "167 cm",
-        "Edad": "23 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "21-01-1996",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Cristian David PavÃ³n",
-        "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Anisacate (Argentina)"
-    },
-    {
-        "Altura": "Javier AgustÃ­n",
-        "Edad": "19 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "11-03-2000",
-        "Nacionalidad": "Delantero",
-        "Nombre_Completo": "Javier AgustÃ­n Obando",
-        "Pais": "Argentina",
-        "Posicion": "172 cm",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "178 cm",
-        "Edad": "29 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "14-10-1989",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "RamÃ³n DarÃ­o Ãbila",
-        "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "CÃ³rdoba"
-    },
-    {
-        "Altura": "CortÃ©s Bustos",
-        "Edad": "17 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "26-06-2001",
-        "Nacionalidad": "Delantero",
-        "Nombre_Completo": "Brandon CortÃ©s Bustos",
-        "Pais": "Chile",
-        "Posicion": "Brandon",
-        "Provincia": "Chile"
-    },
-    {
-        "Altura": "176 cm",
-        "Edad": "32 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "18-03-1987",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Mauro MatÃ­as ZÃ¡rate",
-        "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Haedo"
-    },
-    {
-        "Altura": "175 cm",
-        "Edad": "28 aÃ±os",
-        "Equipo": "Boca Juniors",
-        "Fecha_Nacimiento": "17-05-1990",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "DarÃ­o Ismael Benedetto",
-        "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Berazategui"
-    },
-    {
         "Altura": "186 cm",
         "Edad": "36 aÃ±os",
         "Equipo": "River Plate",
@@ -328,17 +31,6 @@
         "Pais": "Argentina",
         "Posicion": "Portero",
         "Provincia": "Casilda"
-    },
-    {
-        "Altura": "183 cm",
-        "Edad": "23 aÃ±os",
-        "Equipo": "River Plate",
-        "Fecha_Nacimiento": "10-05-1996",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Lucas Martinez Quarta",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Mar del Plata"
     },
     {
         "Altura": "183 cm",
@@ -429,37 +121,15 @@
         "Provincia": "Buenos Aires"
     },
     {
-        "Altura": "182 cm",
-        "Edad": "31 aÃ±os",
+        "Altura": "183 cm",
+        "Edad": "23 aÃ±os",
         "Equipo": "River Plate",
-        "Fecha_Nacimiento": "09-05-1988",
+        "Fecha_Nacimiento": "10-05-1996",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "MatÃ­as Ezequiel SuÃ¡rez",
+        "Nombre_Completo": "Lucas Martinez Quarta",
         "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "La Falda"
-    },
-    {
-        "Altura": "167 cm",
-        "Edad": "21 aÃ±os",
-        "Equipo": "River Plate",
-        "Fecha_Nacimiento": "01-06-1997",
-        "Nacionalidad": "Uruguay",
-        "Nombre_Completo": "Diego NicolÃ¡s De La Cruz Arcosa",
-        "Pais": "Uruguay",
-        "Posicion": "Centrocampista",
-        "Provincia": "Montevideo"
-    },
-    {
-        "Altura": "66 kilogramos",
-        "Edad": "18 aÃ±os",
-        "Equipo": "River Plate",
-        "Fecha_Nacimiento": "07-09-2000",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "HernÃ¡n LÃ³pez MuÃ±Ã³z",
-        "Pais": "Argentina",
-        "Posicion": "168 cm",
-        "Provincia": "Argentina"
+        "Posicion": "Defensa",
+        "Provincia": "Mar del Plata"
     },
     {
         "Altura": "177 cm",
@@ -583,6 +253,39 @@
         "Provincia": "Castelli (Argentina)"
     },
     {
+        "Altura": "182 cm",
+        "Edad": "31 aÃ±os",
+        "Equipo": "River Plate",
+        "Fecha_Nacimiento": "09-05-1988",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "MatÃ­as Ezequiel SuÃ¡rez",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "La Falda"
+    },
+    {
+        "Altura": "167 cm",
+        "Edad": "21 aÃ±os",
+        "Equipo": "River Plate",
+        "Fecha_Nacimiento": "01-06-1997",
+        "Nacionalidad": "Uruguay",
+        "Nombre_Completo": "Diego NicolÃ¡s De La Cruz Arcosa",
+        "Pais": "Uruguay",
+        "Posicion": "Centrocampista",
+        "Provincia": "Montevideo"
+    },
+    {
+        "Altura": "66 kilogramos",
+        "Edad": "18 aÃ±os",
+        "Equipo": "River Plate",
+        "Fecha_Nacimiento": "07-09-2000",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "HernÃ¡n LÃ³pez MuÃ±Ã³z",
+        "Pais": "Argentina",
+        "Posicion": "168 cm",
+        "Provincia": "Argentina"
+    },
+    {
         "Altura": "179 cm",
         "Edad": "23 aÃ±os",
         "Equipo": "River Plate",
@@ -636,6 +339,303 @@
         "Pais": "Argentina",
         "Posicion": "175 cm",
         "Provincia": "Argentina"
+    },
+    {
+        "Altura": "187 cm",
+        "Edad": "22 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "05-03-1997",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Javier Bustillos",
+        "Pais": "Argentina",
+        "Posicion": "Portero",
+        "Provincia": "Santos Lugares"
+    },
+    {
+        "Altura": "193 cm",
+        "Edad": "28 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "26-01-1991",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Esteban Andrada",
+        "Pais": "Argentina",
+        "Posicion": "Portero",
+        "Provincia": "Mendoza"
+    },
+    {
+        "Altura": "186 cm",
+        "Edad": "33 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "05-02-1986",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Marcos Guillermo DÃ­az",
+        "Pais": "Argentina",
+        "Posicion": "Portero",
+        "Provincia": "Santa Fe"
+    },
+    {
+        "Altura": "184 cm",
+        "Edad": "34 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "12-05-1985",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Paolo Duval Goltz",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Hasenkamp"
+    },
+    {
+        "Altura": "184 cm",
+        "Edad": "30 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "03-11-1988",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Carlos Roberto Izquierdoz",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "San Carlos de Bariloche"
+    },
+    {
+        "Altura": "185 cm",
+        "Edad": "26 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "09-02-1993",
+        "Nacionalidad": "Paraguay",
+        "Nombre_Completo": "JÃºnior Osmar Ignacio Alonso Mujica",
+        "Pais": "Paraguay",
+        "Posicion": "Defensa",
+        "Provincia": "AsunciÃ³n"
+    },
+    {
+        "Altura": "183 cm",
+        "Edad": "30 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "15-01-1989",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Emmanuel David Mas Sgros",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "San Juan"
+    },
+    {
+        "Altura": "187 cm",
+        "Edad": "29 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "01-09-1989",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Lisandro Ezequiel LÃ³pez Dessypris",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Villa ConstituciÃ³n"
+    },
+    {
+        "Altura": "172 cm",
+        "Edad": "28 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "22-02-1991",
+        "Nacionalidad": "Colombia",
+        "Nombre_Completo": "Frank Yusty Fabra Palacios",
+        "Pais": "Colombia",
+        "Posicion": "Defensa",
+        "Provincia": "NechÃ­"
+    },
+    {
+        "Altura": "172 cm",
+        "Edad": "30 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "18-08-1988",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Julio Buffarini",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "General Cabrera"
+    },
+    {
+        "Altura": "172 cm",
+        "Edad": "21 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "07-11-1997",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Kevin Mac Allister",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Capital Federal"
+    },
+    {
+        "Altura": "Marcelo Alexis",
+        "Edad": "19 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "11-01-2000",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "Marcelo Alexis Weigandt",
+        "Pais": "Argentina",
+        "Posicion": "175 cm",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "181 cm",
+        "Edad": "21 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "13-01-1998",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "JuliÃ¡n Antonio Chicco",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Brinkmann, CÃ³rdoba"
+    },
+    {
+        "Altura": "171 cm",
+        "Edad": "23 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "28-12-1995",
+        "Nacionalidad": "Uruguay, Italia",
+        "Nombre_Completo": "Nahitan Michel Nandez Acosta",
+        "Pais": "Uruguay",
+        "Posicion": "Centrocampista",
+        "Provincia": "Maldonado"
+    },
+    {
+        "Altura": "184 cm",
+        "Edad": "28 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "03-06-1990",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "IvÃ¡n JosÃ© Marcone",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Buenos Aires"
+    },
+    {
+        "Altura": "173 cm",
+        "Edad": "23 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "16-11-1995",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Emanuel Reynoso",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Ciudad de Cordoba"
+    },
+    {
+        "Altura": "75 kilogramos",
+        "Edad": "19 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "11-02-2000",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "AgustÃ­n Ezequiel Almendra",
+        "Pais": "Argentina",
+        "Posicion": "182 cm",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "175 cm",
+        "Edad": "23 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "30-04-1996",
+        "Nacionalidad": "Colombia",
+        "Nombre_Completo": "Jorman David Campuzano Puentes",
+        "Pais": "Colombia",
+        "Posicion": "Centrocampista",
+        "Provincia": "Tamalameque"
+    },
+    {
+        "Altura": "73 kilogramos",
+        "Edad": "21 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "14-09-1997",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "NicolÃ¡s Capaldo Taboas",
+        "Pais": "Argentina",
+        "Posicion": "177 cm",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "Javier AgustÃ­n",
+        "Edad": "19 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "11-03-2000",
+        "Nacionalidad": "Delantero",
+        "Nombre_Completo": "Javier AgustÃ­n Obando",
+        "Pais": "Argentina",
+        "Posicion": "172 cm",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "178 cm",
+        "Edad": "29 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "14-10-1989",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "RamÃ³n DarÃ­o Ãbila",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "CÃ³rdoba"
+    },
+    {
+        "Altura": "CortÃ©s Bustos",
+        "Edad": "17 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "26-06-2001",
+        "Nacionalidad": "Delantero",
+        "Nombre_Completo": "Brandon CortÃ©s Bustos",
+        "Pais": "Chile",
+        "Posicion": "Brandon",
+        "Provincia": "Chile"
+    },
+    {
+        "Altura": "176 cm",
+        "Edad": "32 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "18-03-1987",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Mauro MatÃ­as ZÃ¡rate",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "Haedo"
+    },
+    {
+        "Altura": "175 cm",
+        "Edad": "29 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "17-05-1990",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "DarÃ­o Ismael Benedetto",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "Berazategui"
+    },
+    {
+        "Altura": "173 cm",
+        "Edad": "35 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "05-02-1984",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Carlos Alberto MartÃ­nez TÃ©vez",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "Ciudadela, Buenos Aires (Argentina)"
+    },
+    {
+        "Altura": "180 cm",
+        "Edad": "22 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "19-05-1996",
+        "Nacionalidad": "Colombia",
+        "Nombre_Completo": "Sebastian Vila Cano",
+        "Pais": "Colombia",
+        "Posicion": "Delantero",
+        "Provincia": "Bello"
+    },
+    {
+        "Altura": "167 cm",
+        "Edad": "23 aÃ±os",
+        "Equipo": "Boca Juniors",
+        "Fecha_Nacimiento": "21-01-1996",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Cristian David PavÃ³n",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "Anisacate (Argentina)"
     },
     {
         "Altura": "85 kilogramos",
@@ -1288,28 +1288,6 @@
     },
     {
         "Altura": "178 cm",
-        "Edad": "26 aÃ±os",
-        "Equipo": "San Lorenzo",
-        "Fecha_Nacimiento": "09-06-1992",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Gino Peruzzi Lucchetti",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Corral de Bustos (Argentina)"
-    },
-    {
-        "Altura": "HernÃ¡ndez",
-        "Edad": "21 aÃ±os",
-        "Equipo": "San Lorenzo",
-        "Fecha_Nacimiento": "19-01-1998",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "GastÃ³n Alan HernÃ¡ndez",
-        "Pais": "Argentina",
-        "Posicion": "GastÃ³n Alan",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "178 cm",
         "Edad": "21 aÃ±os",
         "Equipo": "San Lorenzo",
         "Fecha_Nacimiento": "22-06-1997",
@@ -1397,15 +1375,26 @@
         "Provincia": "Argentina"
     },
     {
-        "Altura": "173 cm",
+        "Altura": "178 cm",
         "Edad": "26 aÃ±os",
         "Equipo": "San Lorenzo",
-        "Fecha_Nacimiento": "02-01-1993",
+        "Fecha_Nacimiento": "09-06-1992",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "GerÃ³nimo GastÃ³n Poblete",
+        "Nombre_Completo": "Gino Peruzzi Lucchetti",
         "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "TunuyÃ¡n"
+        "Posicion": "Defensa",
+        "Provincia": "Corral de Bustos (Argentina)"
+    },
+    {
+        "Altura": "HernÃ¡ndez",
+        "Edad": "21 aÃ±os",
+        "Equipo": "San Lorenzo",
+        "Fecha_Nacimiento": "19-01-1998",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "GastÃ³n Alan HernÃ¡ndez",
+        "Pais": "Argentina",
+        "Posicion": "GastÃ³n Alan",
+        "Provincia": "Argentina"
     },
     {
         "Altura": "176 cm",
@@ -1518,15 +1507,15 @@
         "Provincia": "MorÃ³n"
     },
     {
-        "Altura": "175 cm",
-        "Edad": "29 aÃ±os",
+        "Altura": "173 cm",
+        "Edad": "26 aÃ±os",
         "Equipo": "San Lorenzo",
-        "Fecha_Nacimiento": "31-01-1990",
+        "Fecha_Nacimiento": "02-01-1993",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "RubÃ©n Alejandro Botta Montero",
+        "Nombre_Completo": "GerÃ³nimo GastÃ³n Poblete",
         "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "San Juan"
+        "Posicion": "Centrocampista",
+        "Provincia": "TunuyÃ¡n"
     },
     {
         "Altura": "82 kilogramos",
@@ -1604,6 +1593,17 @@
         "Pais": "Colombia",
         "Posicion": "Delantero",
         "Provincia": "Medellin"
+    },
+    {
+        "Altura": "175 cm",
+        "Edad": "29 aÃ±os",
+        "Equipo": "San Lorenzo",
+        "Fecha_Nacimiento": "31-01-1990",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "RubÃ©n Alejandro Botta Montero",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "San Juan"
     },
     {
         "Altura": "183 cm",
@@ -1749,17 +1749,6 @@
         "Provincia": "Argentina"
     },
     {
-        "Altura": "178 cm",
-        "Edad": "24 aÃ±os",
-        "Equipo": "VÃ©lez Sarsfield",
-        "Fecha_Nacimiento": "27-07-1994",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Yamil Asad",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Capital Federal (Argentina)"
-    },
-    {
         "Altura": "69 kilogramos",
         "Edad": "21 aÃ±os",
         "Equipo": "VÃ©lez Sarsfield",
@@ -1769,6 +1758,17 @@
         "Pais": "Paraguay",
         "Posicion": "166 cm",
         "Provincia": "Paraguay"
+    },
+    {
+        "Altura": "178 cm",
+        "Edad": "24 aÃ±os",
+        "Equipo": "VÃ©lez Sarsfield",
+        "Fecha_Nacimiento": "27-07-1994",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Yamil Asad",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Capital Federal (Argentina)"
     },
     {
         "Altura": "180 cm",
@@ -1925,17 +1925,6 @@
         "Provincia": "NeuquÃ©n (Argentina)"
     },
     {
-        "Altura": "172 cm",
-        "Edad": "25 aÃ±os",
-        "Equipo": "Racing Club",
-        "Fecha_Nacimiento": "20-10-1993",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Alexis Nahuel Soto",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Avellaneda"
-    },
-    {
         "Altura": "180 cm",
         "Edad": "31 aÃ±os",
         "Equipo": "Racing Club",
@@ -2013,6 +2002,17 @@
         "Provincia": "CapitÃ¡n BermÃºdez"
     },
     {
+        "Altura": "172 cm",
+        "Edad": "25 aÃ±os",
+        "Equipo": "Racing Club",
+        "Fecha_Nacimiento": "20-10-1993",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Alexis Nahuel Soto",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Avellaneda"
+    },
+    {
         "Altura": "182 cm",
         "Edad": "26 aÃ±os",
         "Equipo": "Racing Club",
@@ -2024,17 +2024,6 @@
         "Provincia": "Santo TomÃ©"
     },
     {
-        "Altura": "69 kilogramos",
-        "Edad": "19 aÃ±os",
-        "Equipo": "Racing Club",
-        "Fecha_Nacimiento": "08-01-2000",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "JuliÃ¡n Alejo LÃ³pez",
-        "Pais": "Argentina",
-        "Posicion": "182 cm",
-        "Provincia": "Argentina"
-    },
-    {
         "Altura": "172 cm",
         "Edad": "21 aÃ±os",
         "Equipo": "Racing Club",
@@ -2044,6 +2033,17 @@
         "Pais": "Argentina",
         "Posicion": "Centrocampista",
         "Provincia": "Wilde"
+    },
+    {
+        "Altura": "69 kilogramos",
+        "Edad": "19 aÃ±os",
+        "Equipo": "Racing Club",
+        "Fecha_Nacimiento": "08-01-2000",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "JuliÃ¡n Alejo LÃ³pez",
+        "Pais": "Argentina",
+        "Posicion": "182 cm",
+        "Provincia": "Argentina"
     },
     {
         "Altura": "180 cm",
@@ -2124,17 +2124,6 @@
     },
     {
         "Altura": "174 cm",
-        "Edad": "26 aÃ±os",
-        "Equipo": "Racing Club",
-        "Fecha_Nacimiento": "19-01-1993",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "AdriÃ¡n Ricardo CenturiÃ³n",
-        "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Avellaneda"
-    },
-    {
-        "Altura": "174 cm",
         "Edad": "36 aÃ±os",
         "Equipo": "Racing Club",
         "Fecha_Nacimiento": "02-03-1983",
@@ -2178,17 +2167,6 @@
         "Provincia": "Baradero"
     },
     {
-        "Altura": "183 cm",
-        "Edad": "22 aÃ±os",
-        "Equipo": "Racing Club",
-        "Fecha_Nacimiento": "13-04-1997",
-        "Nacionalidad": "Colombia",
-        "Nombre_Completo": "Zander Mateo Cassierra Cabezas",
-        "Pais": "Colombia",
-        "Posicion": "Delantero",
-        "Provincia": "Barbacoas"
-    },
-    {
         "Altura": "175 cm",
         "Edad": "30 aÃ±os",
         "Equipo": "Racing Club",
@@ -2200,15 +2178,26 @@
         "Provincia": "Ingeniero Budge"
     },
     {
-        "Altura": "197 cm",
-        "Edad": "33 aÃ±os",
-        "Equipo": "CA HuracÃ¡n",
-        "Fecha_Nacimiento": "31-03-1986",
+        "Altura": "183 cm",
+        "Edad": "22 aÃ±os",
+        "Equipo": "Racing Club",
+        "Fecha_Nacimiento": "13-04-1997",
+        "Nacionalidad": "Colombia",
+        "Nombre_Completo": "Zander Mateo Cassierra Cabezas",
+        "Pais": "Colombia",
+        "Posicion": "Delantero",
+        "Provincia": "Barbacoas"
+    },
+    {
+        "Altura": "174 cm",
+        "Edad": "26 aÃ±os",
+        "Equipo": "Racing Club",
+        "Fecha_Nacimiento": "19-01-1993",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Diego Fernando Pellegrino",
+        "Nombre_Completo": "AdriÃ¡n Ricardo CenturiÃ³n",
         "Pais": "Argentina",
-        "Posicion": "Portero",
-        "Provincia": "Vicente LÃ³pez"
+        "Posicion": "Delantero",
+        "Provincia": "Avellaneda"
     },
     {
         "Altura": "190 cm",
@@ -2233,26 +2222,15 @@
         "Provincia": "Argentina"
     },
     {
-        "Altura": "85 kilogramos",
-        "Edad": "23 aÃ±os",
+        "Altura": "197 cm",
+        "Edad": "33 aÃ±os",
         "Equipo": "CA HuracÃ¡n",
-        "Fecha_Nacimiento": "27-06-1995",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "Lucas Gabriel Merolla",
-        "Pais": "Argentina",
-        "Posicion": "193 cm",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "181 cm",
-        "Edad": "37 aÃ±os",
-        "Equipo": "CA HuracÃ¡n",
-        "Fecha_Nacimiento": "08-05-1982",
+        "Fecha_Nacimiento": "31-03-1986",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Federico Mancinelli",
+        "Nombre_Completo": "Diego Fernando Pellegrino",
         "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "BahÃ­a Blanca"
+        "Posicion": "Portero",
+        "Provincia": "Vicente LÃ³pez"
     },
     {
         "Altura": "80 kilogramos",
@@ -2332,37 +2310,26 @@
         "Provincia": "Argentina"
     },
     {
-        "Altura": "180 cm",
-        "Edad": "25 aÃ±os",
+        "Altura": "85 kilogramos",
+        "Edad": "23 aÃ±os",
         "Equipo": "CA HuracÃ¡n",
-        "Fecha_Nacimiento": "01-11-1993",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "IvÃ¡n Javier Rossi",
+        "Fecha_Nacimiento": "27-06-1995",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "Lucas Gabriel Merolla",
         "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Buenos Aires"
-    },
-    {
-        "Altura": "Casco",
-        "Edad": "22 aÃ±os",
-        "Equipo": "CA HuracÃ¡n",
-        "Fecha_Nacimiento": "28-01-1997",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "AgustÃ­n Ramon Casco",
-        "Pais": "Argentina",
-        "Posicion": "AgustÃ­n Ramon",
+        "Posicion": "193 cm",
         "Provincia": "Argentina"
     },
     {
-        "Altura": "180 cm",
-        "Edad": "32 aÃ±os",
+        "Altura": "181 cm",
+        "Edad": "37 aÃ±os",
         "Equipo": "CA HuracÃ¡n",
-        "Fecha_Nacimiento": "04-05-1987",
+        "Fecha_Nacimiento": "08-05-1982",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Juan Ignacio Sills",
+        "Nombre_Completo": "Federico Mancinelli",
         "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "San Antonio de Areco"
+        "Posicion": "Defensa",
+        "Provincia": "BahÃ­a Blanca"
     },
     {
         "Altura": "71 kilogramos",
@@ -2442,26 +2409,37 @@
         "Provincia": "MedellÃ­n"
     },
     {
-        "Altura": "187 cm",
-        "Edad": "34 aÃ±os",
+        "Altura": "180 cm",
+        "Edad": "25 aÃ±os",
         "Equipo": "CA HuracÃ¡n",
-        "Fecha_Nacimiento": "13-11-1984",
-        "Nacionalidad": "Paraguay",
-        "Nombre_Completo": "Lucas RamÃ³n Barrios CÃ¡ceres",
-        "Pais": "Paraguay",
-        "Posicion": "Delantero",
-        "Provincia": "San Fernando de la Buena Vista"
+        "Fecha_Nacimiento": "01-11-1993",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "IvÃ¡n Javier Rossi",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Buenos Aires"
     },
     {
-        "Altura": "182 cm",
-        "Edad": "23 aÃ±os",
+        "Altura": "Casco",
+        "Edad": "22 aÃ±os",
         "Equipo": "CA HuracÃ¡n",
-        "Fecha_Nacimiento": "29-02-1996",
-        "Nacionalidad": "Armenia",
-        "Nombre_Completo": "Norberto Briasco-Balekian",
-        "Pais": "Armenia",
-        "Posicion": "Delantero",
-        "Provincia": "Buenos Aires"
+        "Fecha_Nacimiento": "28-01-1997",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "AgustÃ­n Ramon Casco",
+        "Pais": "Argentina",
+        "Posicion": "AgustÃ­n Ramon",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "180 cm",
+        "Edad": "32 aÃ±os",
+        "Equipo": "CA HuracÃ¡n",
+        "Fecha_Nacimiento": "04-05-1987",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Juan Ignacio Sills",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "San Antonio de Areco"
     },
     {
         "Altura": "184 cm",
@@ -2519,6 +2497,28 @@
         "Provincia": "Argentina"
     },
     {
+        "Altura": "187 cm",
+        "Edad": "34 aÃ±os",
+        "Equipo": "CA HuracÃ¡n",
+        "Fecha_Nacimiento": "13-11-1984",
+        "Nacionalidad": "Paraguay",
+        "Nombre_Completo": "Lucas RamÃ³n Barrios CÃ¡ceres",
+        "Pais": "Paraguay",
+        "Posicion": "Delantero",
+        "Provincia": "San Fernando de la Buena Vista"
+    },
+    {
+        "Altura": "182 cm",
+        "Edad": "23 aÃ±os",
+        "Equipo": "CA HuracÃ¡n",
+        "Fecha_Nacimiento": "29-02-1996",
+        "Nacionalidad": "Armenia",
+        "Nombre_Completo": "Norberto Briasco-Balekian",
+        "Pais": "Armenia",
+        "Posicion": "Delantero",
+        "Provincia": "Buenos Aires"
+    },
+    {
         "Altura": "186 cm",
         "Edad": "24 aÃ±os",
         "Equipo": "Newell's Boys",
@@ -2528,17 +2528,6 @@
         "Pais": "Argentina",
         "Posicion": "Portero",
         "Provincia": "Villa Eloisa"
-    },
-    {
-        "Altura": "185 cm",
-        "Edad": "37 aÃ±os",
-        "Equipo": "Newell's Boys",
-        "Fecha_Nacimiento": "13-11-1981",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Nelson IbÃ¡Ã±ez",
-        "Pais": "Argentina",
-        "Posicion": "Portero",
-        "Provincia": "Mendoza"
     },
     {
         "Altura": "181 cm",
@@ -2552,15 +2541,15 @@
         "Provincia": "Capital Federal"
     },
     {
-        "Altura": "175 cm",
-        "Edad": "34 aÃ±os",
+        "Altura": "185 cm",
+        "Edad": "37 aÃ±os",
         "Equipo": "Newell's Boys",
-        "Fecha_Nacimiento": "09-02-1985",
+        "Fecha_Nacimiento": "13-11-1981",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Leandro DamiÃ¡n Marcelo Grimi",
+        "Nombre_Completo": "Nelson IbÃ¡Ã±ez",
         "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "San Lorenzo"
+        "Posicion": "Portero",
+        "Provincia": "Mendoza"
     },
     {
         "Altura": "180 cm",
@@ -2574,15 +2563,15 @@
         "Provincia": "Rafaela"
     },
     {
-        "Altura": "185 cm",
-        "Edad": "26 aÃ±os",
+        "Altura": "175 cm",
+        "Edad": "34 aÃ±os",
         "Equipo": "Newell's Boys",
-        "Fecha_Nacimiento": "01-04-1993",
-        "Nacionalidad": "Paraguay",
-        "Nombre_Completo": "Teodoro Paul Paredes PavÃ³n",
-        "Pais": "Paraguay",
+        "Fecha_Nacimiento": "09-02-1985",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Leandro DamiÃ¡n Marcelo Grimi",
+        "Pais": "Argentina",
         "Posicion": "Defensa",
-        "Provincia": "AsunciÃ³n"
+        "Provincia": "San Lorenzo"
     },
     {
         "Altura": "177 cm",
@@ -2607,15 +2596,15 @@
         "Provincia": "Argentina"
     },
     {
-        "Altura": "170 cm",
-        "Edad": "23 aÃ±os",
+        "Altura": "185 cm",
+        "Edad": "26 aÃ±os",
         "Equipo": "Newell's Boys",
-        "Fecha_Nacimiento": "29-01-1996",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Leonel Ferroni",
-        "Pais": "Argentina",
+        "Fecha_Nacimiento": "01-04-1993",
+        "Nacionalidad": "Paraguay",
+        "Nombre_Completo": "Teodoro Paul Paredes PavÃ³n",
+        "Pais": "Paraguay",
         "Posicion": "Defensa",
-        "Provincia": "Rosario"
+        "Provincia": "AsunciÃ³n"
     },
     {
         "Altura": "Freytes",
@@ -2627,6 +2616,17 @@
         "Pais": "Argentina",
         "Posicion": "Juan Pablo",
         "Provincia": "Argentina"
+    },
+    {
+        "Altura": "170 cm",
+        "Edad": "23 aÃ±os",
+        "Equipo": "Newell's Boys",
+        "Fecha_Nacimiento": "29-01-1996",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Leonel Ferroni",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Rosario"
     },
     {
         "Altura": "176 cm",
@@ -2651,26 +2651,15 @@
         "Provincia": "MorÃ³n"
     },
     {
-        "Altura": "Requena",
-        "Edad": "20 aÃ±os",
+        "Altura": "Lisandro Joel",
+        "Edad": "29 aÃ±os",
         "Equipo": "Newell's Boys",
-        "Fecha_Nacimiento": "24-01-1999",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "Juan Manuel Requena",
+        "Fecha_Nacimiento": "17-04-1990",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Lisandro Alzugaray",
         "Pais": "Argentina",
-        "Posicion": "Juan Manuel",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "182 cm",
-        "Edad": "31 aÃ±os",
-        "Equipo": "Newell's Boys",
-        "Fecha_Nacimiento": "04-10-1987",
-        "Nacionalidad": "Uruguay",
-        "Nombre_Completo": "Ribair RodrÃ­guez PÃ©rez",
-        "Pais": "Uruguay",
         "Posicion": "Centrocampista",
-        "Provincia": "Montevideo"
+        "Provincia": "Viale"
     },
     {
         "Altura": "161 cm",
@@ -2693,17 +2682,6 @@
         "Pais": "Argentina",
         "Posicion": "Centrocampista",
         "Provincia": "CÃ³rdoba"
-    },
-    {
-        "Altura": "Lisandro Joel",
-        "Edad": "29 aÃ±os",
-        "Equipo": "Newell's Boys",
-        "Fecha_Nacimiento": "17-04-1990",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Lisandro Alzugaray",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Viale"
     },
     {
         "Altura": "Moreno",
@@ -2761,17 +2739,6 @@
         "Provincia": "Resistencia"
     },
     {
-        "Altura": "175 cm",
-        "Edad": "22 aÃ±os",
-        "Equipo": "Newell's Boys",
-        "Fecha_Nacimiento": "28-01-1997",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Joaquin Torres",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Rosario"
-    },
-    {
         "Altura": "73 kilogramos",
         "Edad": "21 aÃ±os",
         "Equipo": "Newell's Boys",
@@ -2784,24 +2751,46 @@
     },
     {
         "Altura": "175 cm",
-        "Edad": "19 aÃ±os",
+        "Edad": "22 aÃ±os",
         "Equipo": "Newell's Boys",
-        "Fecha_Nacimiento": "20-11-1999",
+        "Fecha_Nacimiento": "28-01-1997",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Enzo Cabrera",
+        "Nombre_Completo": "Joaquin Torres",
         "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Casilda"
+        "Posicion": "Centrocampista",
+        "Provincia": "Rosario"
     },
     {
-        "Altura": "70 kilogramos",
-        "Edad": "18 aÃ±os",
+        "Altura": "Requena",
+        "Edad": "20 aÃ±os",
         "Equipo": "Newell's Boys",
-        "Fecha_Nacimiento": "06-04-2001",
-        "Nacionalidad": "Delantero",
-        "Nombre_Completo": "Francisco GonzÃ¡lez",
+        "Fecha_Nacimiento": "24-01-1999",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "Juan Manuel Requena",
         "Pais": "Argentina",
-        "Posicion": "170 cm",
+        "Posicion": "Juan Manuel",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "182 cm",
+        "Edad": "31 aÃ±os",
+        "Equipo": "Newell's Boys",
+        "Fecha_Nacimiento": "04-10-1987",
+        "Nacionalidad": "Uruguay",
+        "Nombre_Completo": "Ribair RodrÃ­guez PÃ©rez",
+        "Pais": "Uruguay",
+        "Posicion": "Centrocampista",
+        "Provincia": "Montevideo"
+    },
+    {
+        "Altura": "JuliÃ¡n",
+        "Edad": "21 aÃ±os",
+        "Equipo": "Newell's Boys",
+        "Fecha_Nacimiento": "19-03-1998",
+        "Nacionalidad": "Delantero",
+        "Nombre_Completo": "JuliÃ¡n Marcioni",
+        "Pais": "Argentina",
+        "Posicion": "176 cm",
         "Provincia": "Argentina"
     },
     {
@@ -2816,15 +2805,15 @@
         "Provincia": "Argentina"
     },
     {
-        "Altura": "JuliÃ¡n",
-        "Edad": "21 aÃ±os",
+        "Altura": "181 cm",
+        "Edad": "23 aÃ±os",
         "Equipo": "Newell's Boys",
-        "Fecha_Nacimiento": "19-03-1998",
-        "Nacionalidad": "Delantero",
-        "Nombre_Completo": "JuliÃ¡n Marcioni",
-        "Pais": "Argentina",
-        "Posicion": "176 cm",
-        "Provincia": "Argentina"
+        "Fecha_Nacimiento": "18-12-1995",
+        "Nacionalidad": "Paraguay",
+        "Nombre_Completo": "Alfio Ovidio Oviedo Ãlvarez",
+        "Pais": "Paraguay",
+        "Posicion": "Delantero",
+        "Provincia": "YpacaraÃ­"
     },
     {
         "Altura": "176 cm",
@@ -2849,17 +2838,6 @@
         "Provincia": "Capital Federal"
     },
     {
-        "Altura": "181 cm",
-        "Edad": "23 aÃ±os",
-        "Equipo": "Newell's Boys",
-        "Fecha_Nacimiento": "18-12-1995",
-        "Nacionalidad": "Paraguay",
-        "Nombre_Completo": "Alfio Ovidio Oviedo Ãlvarez",
-        "Pais": "Paraguay",
-        "Posicion": "Delantero",
-        "Provincia": "YpacaraÃ­"
-    },
-    {
         "Altura": "177 cm",
         "Edad": "30 aÃ±os",
         "Equipo": "Newell's Boys",
@@ -2882,15 +2860,26 @@
         "Provincia": "San Lorenzo"
     },
     {
-        "Altura": "183 cm",
-        "Edad": "30 aÃ±os",
-        "Equipo": "Rosario Central",
-        "Fecha_Nacimiento": "30-05-1988",
+        "Altura": "175 cm",
+        "Edad": "19 aÃ±os",
+        "Equipo": "Newell's Boys",
+        "Fecha_Nacimiento": "20-11-1999",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "JosuÃ© Daniel DÃ­az Ayala",
+        "Nombre_Completo": "Enzo Cabrera",
         "Pais": "Argentina",
-        "Posicion": "Portero",
-        "Provincia": "Capital Federal"
+        "Posicion": "Delantero",
+        "Provincia": "Casilda"
+    },
+    {
+        "Altura": "70 kilogramos",
+        "Edad": "18 aÃ±os",
+        "Equipo": "Newell's Boys",
+        "Fecha_Nacimiento": "06-04-2001",
+        "Nacionalidad": "Delantero",
+        "Nombre_Completo": "Francisco GonzÃ¡lez",
+        "Pais": "Argentina",
+        "Posicion": "170 cm",
+        "Provincia": "Argentina"
     },
     {
         "Altura": "186 cm",
@@ -2915,15 +2904,15 @@
         "Provincia": "Rosario"
     },
     {
-        "Altura": "175 cm",
-        "Edad": "21 aÃ±os",
+        "Altura": "183 cm",
+        "Edad": "30 aÃ±os",
         "Equipo": "Rosario Central",
-        "Fecha_Nacimiento": "06-04-1998",
+        "Fecha_Nacimiento": "30-05-1988",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Nahuel Molina Lucero",
+        "Nombre_Completo": "JosuÃ© Daniel DÃ­az Ayala",
         "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Embalse"
+        "Posicion": "Portero",
+        "Provincia": "Capital Federal"
     },
     {
         "Altura": "185 cm",
@@ -3036,26 +3025,15 @@
         "Provincia": "Argentina"
     },
     {
-        "Altura": "176 cm",
-        "Edad": "27 aÃ±os",
+        "Altura": "175 cm",
+        "Edad": "21 aÃ±os",
         "Equipo": "Rosario Central",
-        "Fecha_Nacimiento": "31-05-1991",
+        "Fecha_Nacimiento": "06-04-1998",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Leonardo Roque Gil",
+        "Nombre_Completo": "Nahuel Molina Lucero",
         "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "RÃ­o Gallegos"
-    },
-    {
-        "Altura": "172 cm",
-        "Edad": "26 aÃ±os",
-        "Equipo": "Rosario Central",
-        "Fecha_Nacimiento": "29-04-1993",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Pablo Ignacio Becker",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Los Quirquinchos"
+        "Posicion": "Defensa",
+        "Provincia": "Embalse"
     },
     {
         "Altura": "180 cm",
@@ -3188,6 +3166,28 @@
         "Pais": "Argentina",
         "Posicion": "Centrocampista",
         "Provincia": "Firmat"
+    },
+    {
+        "Altura": "176 cm",
+        "Edad": "27 aÃ±os",
+        "Equipo": "Rosario Central",
+        "Fecha_Nacimiento": "31-05-1991",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Leonardo Roque Gil",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "RÃ­o Gallegos"
+    },
+    {
+        "Altura": "172 cm",
+        "Edad": "26 aÃ±os",
+        "Equipo": "Rosario Central",
+        "Fecha_Nacimiento": "29-04-1993",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Pablo Ignacio Becker",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Los Quirquinchos"
     },
     {
         "Altura": "179 cm",
@@ -3421,17 +3421,6 @@
         "Provincia": "Ensenada"
     },
     {
-        "Altura": "72 kilogramos",
-        "Edad": "20 aÃ±os",
-        "Equipo": "Gimnasia Plata",
-        "Fecha_Nacimiento": "10-08-1998",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "MatÃ­as Marcos GÃ³mez",
-        "Pais": "Argentina",
-        "Posicion": "169 cm",
-        "Provincia": "Argentina"
-    },
-    {
         "Altura": "Monti",
         "Edad": "21 aÃ±os",
         "Equipo": "Gimnasia Plata",
@@ -3440,6 +3429,17 @@
         "Nombre_Completo": "Patricio IvÃ¡n Monti",
         "Pais": "Argentina",
         "Posicion": "Patricio IvÃ¡n",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "72 kilogramos",
+        "Edad": "20 aÃ±os",
+        "Equipo": "Gimnasia Plata",
+        "Fecha_Nacimiento": "10-08-1998",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "MatÃ­as Marcos GÃ³mez",
+        "Pais": "Argentina",
+        "Posicion": "169 cm",
         "Provincia": "Argentina"
     },
     {
@@ -3652,50 +3652,6 @@
         "Provincia": "MartÃ­n Coronado (Argentina)"
     },
     {
-        "Altura": "67 kilogramos",
-        "Edad": "20 aÃ±os",
-        "Equipo": "Argentinos",
-        "Fecha_Nacimiento": "29-08-1998",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "Enzo AgustÃ­n YbaÃ±ez",
-        "Pais": "Argentina",
-        "Posicion": "176 cm",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "179 cm",
-        "Edad": "31 aÃ±os",
-        "Equipo": "Argentinos",
-        "Fecha_Nacimiento": "25-06-1987",
-        "Nacionalidad": "Uruguay",
-        "Nombre_Completo": "Jonathan Alexis Sandoval Rojas",
-        "Pais": "Uruguay",
-        "Posicion": "Defensa",
-        "Provincia": "Montevideo"
-    },
-    {
-        "Altura": "175 cm",
-        "Edad": "30 aÃ±os",
-        "Equipo": "Argentinos",
-        "Fecha_Nacimiento": "12-08-1988",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Miguel Angel TorrÃ©n",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Villa ConstituciÃ³n"
-    },
-    {
-        "Altura": "179 cm",
-        "Edad": "24 aÃ±os",
-        "Equipo": "Argentinos",
-        "Fecha_Nacimiento": "09-06-1994",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "ElÃ­as JosÃ© GÃ³mez",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Granadero Baigorria"
-    },
-    {
         "Altura": "191 cm",
         "Edad": "34 aÃ±os",
         "Equipo": "Argentinos",
@@ -3751,48 +3707,48 @@
         "Provincia": "Mar del Plata"
     },
     {
-        "Altura": "171 cm",
-        "Edad": "21 aÃ±os",
+        "Altura": "67 kilogramos",
+        "Edad": "20 aÃ±os",
         "Equipo": "Argentinos",
-        "Fecha_Nacimiento": "13-09-1997",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Franco Moyano",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Lobos, Entre Rios"
-    },
-    {
-        "Altura": "72 kilogramos",
-        "Edad": "19 aÃ±os",
-        "Equipo": "Argentinos",
-        "Fecha_Nacimiento": "26-03-2000",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "Fausto  Mariano Vera",
+        "Fecha_Nacimiento": "29-08-1998",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "Enzo AgustÃ­n YbaÃ±ez",
         "Pais": "Argentina",
         "Posicion": "176 cm",
         "Provincia": "Argentina"
     },
     {
-        "Altura": "162 cm",
-        "Edad": "25 aÃ±os",
+        "Altura": "179 cm",
+        "Edad": "31 aÃ±os",
         "Equipo": "Argentinos",
-        "Fecha_Nacimiento": "15-02-1994",
+        "Fecha_Nacimiento": "25-06-1987",
         "Nacionalidad": "Uruguay",
-        "Nombre_Completo": "Leandro GastÃ³n Paiva SanturiÃ³n",
+        "Nombre_Completo": "Jonathan Alexis Sandoval Rojas",
         "Pais": "Uruguay",
-        "Posicion": "Centrocampista",
+        "Posicion": "Defensa",
         "Provincia": "Montevideo"
     },
     {
         "Altura": "175 cm",
-        "Edad": "22 aÃ±os",
+        "Edad": "30 aÃ±os",
         "Equipo": "Argentinos",
-        "Fecha_Nacimiento": "24-06-1996",
+        "Fecha_Nacimiento": "12-08-1988",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Damian Batallini",
+        "Nombre_Completo": "Miguel Angel TorrÃ©n",
         "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Don Torcuato"
+        "Posicion": "Defensa",
+        "Provincia": "Villa ConstituciÃ³n"
+    },
+    {
+        "Altura": "179 cm",
+        "Edad": "24 aÃ±os",
+        "Equipo": "Argentinos",
+        "Fecha_Nacimiento": "09-06-1994",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "ElÃ­as JosÃ© GÃ³mez",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Granadero Baigorria"
     },
     {
         "Altura": "178 cm",
@@ -3839,17 +3795,6 @@
         "Provincia": "Montevideo"
     },
     {
-        "Altura": "Miljevic",
-        "Edad": "18 aÃ±os",
-        "Equipo": "Argentinos",
-        "Fecha_Nacimiento": "09-05-2001",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "Matko Miljevic",
-        "Pais": "Argentina",
-        "Posicion": "Matko",
-        "Provincia": "Argentina"
-    },
-    {
         "Altura": "174 cm",
         "Edad": "36 aÃ±os",
         "Equipo": "Argentinos",
@@ -3859,6 +3804,17 @@
         "Pais": "Argentina",
         "Posicion": "Centrocampista",
         "Provincia": "Del Viso"
+    },
+    {
+        "Altura": "Miljevic",
+        "Edad": "18 aÃ±os",
+        "Equipo": "Argentinos",
+        "Fecha_Nacimiento": "09-05-2001",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "Matko Miljevic",
+        "Pais": "Argentina",
+        "Posicion": "Matko",
+        "Provincia": "Argentina"
     },
     {
         "Altura": "173 cm",
@@ -3881,6 +3837,50 @@
         "Pais": "Argentina",
         "Posicion": "Centrocampista",
         "Provincia": "ParanÃ¡"
+    },
+    {
+        "Altura": "171 cm",
+        "Edad": "21 aÃ±os",
+        "Equipo": "Argentinos",
+        "Fecha_Nacimiento": "13-09-1997",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Franco Moyano",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Lobos, Entre Rios"
+    },
+    {
+        "Altura": "72 kilogramos",
+        "Edad": "19 aÃ±os",
+        "Equipo": "Argentinos",
+        "Fecha_Nacimiento": "26-03-2000",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "Fausto  Mariano Vera",
+        "Pais": "Argentina",
+        "Posicion": "176 cm",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "162 cm",
+        "Edad": "25 aÃ±os",
+        "Equipo": "Argentinos",
+        "Fecha_Nacimiento": "15-02-1994",
+        "Nacionalidad": "Uruguay",
+        "Nombre_Completo": "Leandro GastÃ³n Paiva SanturiÃ³n",
+        "Pais": "Uruguay",
+        "Posicion": "Centrocampista",
+        "Provincia": "Montevideo"
+    },
+    {
+        "Altura": "175 cm",
+        "Edad": "22 aÃ±os",
+        "Equipo": "Argentinos",
+        "Fecha_Nacimiento": "24-06-1996",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Damian Batallini",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Don Torcuato"
     },
     {
         "Altura": "173 cm",
@@ -4279,17 +4279,6 @@
         "Provincia": "Argentina"
     },
     {
-        "Altura": "185 cm",
-        "Edad": "22 aÃ±os",
-        "Equipo": "Banfield",
-        "Fecha_Nacimiento": "09-04-1997",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Facundo NicolÃ¡s Cambeses",
-        "Pais": "Argentina",
-        "Posicion": "Portero",
-        "Provincia": "AdroguÃ©"
-    },
-    {
         "Altura": "183 cm",
         "Edad": "23 aÃ±os",
         "Equipo": "Banfield",
@@ -4302,6 +4291,17 @@
     },
     {
         "Altura": "185 cm",
+        "Edad": "22 aÃ±os",
+        "Equipo": "Banfield",
+        "Fecha_Nacimiento": "09-04-1997",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Facundo NicolÃ¡s Cambeses",
+        "Pais": "Argentina",
+        "Posicion": "Portero",
+        "Provincia": "AdroguÃ©"
+    },
+    {
+        "Altura": "185 cm",
         "Edad": "23 aÃ±os",
         "Equipo": "Banfield",
         "Fecha_Nacimiento": "21-03-1996",
@@ -4310,6 +4310,39 @@
         "Pais": "Argentina",
         "Posicion": "Portero",
         "Provincia": "Rojas"
+    },
+    {
+        "Altura": "170 cm",
+        "Edad": "22 aÃ±os",
+        "Equipo": "Banfield",
+        "Fecha_Nacimiento": "13-03-1997",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Claudio NicolÃ¡s Bravo",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Quilmes"
+    },
+    {
+        "Altura": "195 cm",
+        "Edad": "35 aÃ±os",
+        "Equipo": "Banfield",
+        "Fecha_Nacimiento": "14-10-1983",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Renato Civelli",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "PehuajÃ³"
+    },
+    {
+        "Altura": "184 cm",
+        "Edad": "24 aÃ±os",
+        "Equipo": "Banfield",
+        "Fecha_Nacimiento": "28-09-1994",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Rodrigo Tapia",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Buenos Aires"
     },
     {
         "Altura": "173 cm",
@@ -4345,17 +4378,6 @@
         "Provincia": "Centenario"
     },
     {
-        "Altura": "177 cm",
-        "Edad": "19 aÃ±os",
-        "Equipo": "Banfield",
-        "Fecha_Nacimiento": "22-07-1999",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Alexis Sosa",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Burzaco"
-    },
-    {
         "Altura": "188 cm",
         "Edad": "21 aÃ±os",
         "Equipo": "Banfield",
@@ -4367,48 +4389,15 @@
         "Provincia": "La Rioja"
     },
     {
-        "Altura": "170 cm",
-        "Edad": "22 aÃ±os",
-        "Equipo": "Banfield",
-        "Fecha_Nacimiento": "13-03-1997",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Claudio NicolÃ¡s Bravo",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Quilmes"
-    },
-    {
-        "Altura": "184 cm",
-        "Edad": "24 aÃ±os",
-        "Equipo": "Banfield",
-        "Fecha_Nacimiento": "28-09-1994",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Rodrigo Tapia",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Buenos Aires"
-    },
-    {
-        "Altura": "195 cm",
-        "Edad": "35 aÃ±os",
-        "Equipo": "Banfield",
-        "Fecha_Nacimiento": "14-10-1983",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Renato Civelli",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "PehuajÃ³"
-    },
-    {
         "Altura": "177 cm",
-        "Edad": "34 aÃ±os",
+        "Edad": "19 aÃ±os",
         "Equipo": "Banfield",
-        "Fecha_Nacimiento": "19-05-1984",
+        "Fecha_Nacimiento": "22-07-1999",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "JesÃºs Alberto DÃ¡tolo",
+        "Nombre_Completo": "Alexis Sosa",
         "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Carlos Spegazzini"
+        "Posicion": "Defensa",
+        "Provincia": "Burzaco"
     },
     {
         "Altura": "175 cm",
@@ -4422,17 +4411,6 @@
         "Provincia": "Monte Grande"
     },
     {
-        "Altura": "180 cm",
-        "Edad": "26 aÃ±os",
-        "Equipo": "Banfield",
-        "Fecha_Nacimiento": "20-07-1992",
-        "Nacionalidad": "Colombia",
-        "Nombre_Completo": "Reinaldo Lenis Montes",
-        "Pais": "Colombia",
-        "Posicion": "Centrocampista",
-        "Provincia": "Cali"
-    },
-    {
         "Altura": "163 cm",
         "Edad": "23 aÃ±os",
         "Equipo": "Banfield",
@@ -4442,6 +4420,17 @@
         "Pais": "Argentina",
         "Posicion": "Centrocampista",
         "Provincia": "Corrientes"
+    },
+    {
+        "Altura": "180 cm",
+        "Edad": "26 aÃ±os",
+        "Equipo": "Banfield",
+        "Fecha_Nacimiento": "20-07-1992",
+        "Nacionalidad": "Colombia",
+        "Nombre_Completo": "Reinaldo Lenis Montes",
+        "Pais": "Colombia",
+        "Posicion": "Centrocampista",
+        "Provincia": "Cali"
     },
     {
         "Altura": "73 kilogramos",
@@ -4499,37 +4488,15 @@
         "Provincia": "Ingeniero Huergo"
     },
     {
-        "Altura": "Urzi",
-        "Edad": "19 aÃ±os",
+        "Altura": "177 cm",
+        "Edad": "34 aÃ±os",
         "Equipo": "Banfield",
-        "Fecha_Nacimiento": "04-05-2000",
-        "Nacionalidad": "Delantero",
-        "Nombre_Completo": "AgustÃ­n Urzi",
-        "Pais": "Argentina",
-        "Posicion": "AgustÃ­n",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "67 kilogramos",
-        "Edad": "21 aÃ±os",
-        "Equipo": "Banfield",
-        "Fecha_Nacimiento": "26-03-1998",
-        "Nacionalidad": "Delantero",
-        "Nombre_Completo": "MatÃ­as HernÃ¡n Moya",
-        "Pais": "Argentina",
-        "Posicion": "167 cm",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "180 cm",
-        "Edad": "21 aÃ±os",
-        "Equipo": "Banfield",
-        "Fecha_Nacimiento": "06-11-1997",
+        "Fecha_Nacimiento": "19-05-1984",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Luis Marcelo Torres",
+        "Nombre_Completo": "JesÃºs Alberto DÃ¡tolo",
         "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Temperley"
+        "Posicion": "Centrocampista",
+        "Provincia": "Carlos Spegazzini"
     },
     {
         "Altura": "179 cm",
@@ -4541,6 +4508,17 @@
         "Pais": "Argentina",
         "Posicion": "Delantero",
         "Provincia": "CÃ³rdoba"
+    },
+    {
+        "Altura": "180 cm",
+        "Edad": "21 aÃ±os",
+        "Equipo": "Banfield",
+        "Fecha_Nacimiento": "06-11-1997",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Luis Marcelo Torres",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "Temperley"
     },
     {
         "Altura": "178 cm",
@@ -4585,6 +4563,28 @@
         "Pais": "Argentina",
         "Posicion": "Delantero",
         "Provincia": "Oncativo"
+    },
+    {
+        "Altura": "Urzi",
+        "Edad": "19 aÃ±os",
+        "Equipo": "Banfield",
+        "Fecha_Nacimiento": "04-05-2000",
+        "Nacionalidad": "Delantero",
+        "Nombre_Completo": "AgustÃ­n Urzi",
+        "Pais": "Argentina",
+        "Posicion": "AgustÃ­n",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "67 kilogramos",
+        "Edad": "21 aÃ±os",
+        "Equipo": "Banfield",
+        "Fecha_Nacimiento": "26-03-1998",
+        "Nacionalidad": "Delantero",
+        "Nombre_Completo": "MatÃ­as HernÃ¡n Moya",
+        "Pais": "Argentina",
+        "Posicion": "167 cm",
+        "Provincia": "Argentina"
     },
     {
         "Altura": "186 cm",
@@ -4686,6 +4686,17 @@
         "Provincia": "Rosario (Argentina)"
     },
     {
+        "Altura": "Paparelli",
+        "Edad": "22 aÃ±os",
+        "Equipo": "Talleres",
+        "Fecha_Nacimiento": "24-03-1997",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "Renzo Paparelli",
+        "Pais": "Argentina",
+        "Posicion": "Renzo",
+        "Provincia": "Argentina"
+    },
+    {
         "Altura": "Bersano",
         "Edad": "21 aÃ±os",
         "Equipo": "Talleres",
@@ -4706,17 +4717,6 @@
         "Pais": "Argentina",
         "Posicion": "Defensa",
         "Provincia": "Chubut"
-    },
-    {
-        "Altura": "Paparelli",
-        "Edad": "22 aÃ±os",
-        "Equipo": "Talleres",
-        "Fecha_Nacimiento": "24-03-1997",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "Renzo Paparelli",
-        "Pais": "Argentina",
-        "Posicion": "Renzo",
-        "Provincia": "Argentina"
     },
     {
         "Altura": "178 cm",
@@ -4918,7 +4918,7 @@
     },
     {
         "Altura": "170 cm",
-        "Edad": "25 aÃ±os",
+        "Edad": "26 aÃ±os",
         "Equipo": "Talleres",
         "Fecha_Nacimiento": "17-05-1993",
         "Nacionalidad": "Uruguay",
@@ -4926,6 +4926,17 @@
         "Pais": "Uruguay",
         "Posicion": "Delantero",
         "Provincia": "Montevideo"
+    },
+    {
+        "Altura": "187 cm",
+        "Edad": "20 aÃ±os",
+        "Equipo": "UniÃ³n Santa Fe",
+        "Fecha_Nacimiento": "15-10-1998",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Marcos HernÃ¡n Peano",
+        "Pais": "Argentina",
+        "Posicion": "Portero",
+        "Provincia": "Freyre"
     },
     {
         "Altura": "195 cm",
@@ -4948,39 +4959,6 @@
         "Pais": "Argentina",
         "Posicion": "Portero",
         "Provincia": "Santa Fe Capital"
-    },
-    {
-        "Altura": "187 cm",
-        "Edad": "20 aÃ±os",
-        "Equipo": "UniÃ³n Santa Fe",
-        "Fecha_Nacimiento": "15-10-1998",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Marcos HernÃ¡n Peano",
-        "Pais": "Argentina",
-        "Posicion": "Portero",
-        "Provincia": "Freyre"
-    },
-    {
-        "Altura": "180 cm",
-        "Edad": "34 aÃ±os",
-        "Equipo": "UniÃ³n Santa Fe",
-        "Fecha_Nacimiento": "14-09-1984",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Jonathan Pablo Bottinelli",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Capital Federal"
-    },
-    {
-        "Altura": "79 kilogramos",
-        "Edad": "18 aÃ±os",
-        "Equipo": "UniÃ³n Santa Fe",
-        "Fecha_Nacimiento": "28-06-2000",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "Franco Lionel Godoy",
-        "Pais": "Argentina",
-        "Posicion": "185 cm",
-        "Provincia": "Argentina"
     },
     {
         "Altura": "187 cm",
@@ -5049,25 +5027,25 @@
         "Provincia": "TadÃ³"
     },
     {
-        "Altura": "184 cm",
-        "Edad": "24 aÃ±os",
+        "Altura": "180 cm",
+        "Edad": "34 aÃ±os",
         "Equipo": "UniÃ³n Santa Fe",
-        "Fecha_Nacimiento": "05-12-1994",
-        "Nacionalidad": "Uruguay",
-        "Nombre_Completo": "Ãscar Javier MÃ©ndez Albornoz",
-        "Pais": "Uruguay",
-        "Posicion": "Centrocampista",
-        "Provincia": "Montevideo"
+        "Fecha_Nacimiento": "14-09-1984",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Jonathan Pablo Bottinelli",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Capital Federal"
     },
     {
-        "Altura": "CalderÃ³n",
-        "Edad": "21 aÃ±os",
+        "Altura": "79 kilogramos",
+        "Edad": "18 aÃ±os",
         "Equipo": "UniÃ³n Santa Fe",
-        "Fecha_Nacimiento": "13-05-1998",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "Franco Ezequiel CalderÃ³n",
+        "Fecha_Nacimiento": "28-06-2000",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "Franco Lionel Godoy",
         "Pais": "Argentina",
-        "Posicion": "Franco Ezequiel",
+        "Posicion": "185 cm",
         "Provincia": "Argentina"
     },
     {
@@ -5115,17 +5093,6 @@
         "Provincia": "Capital Federal"
     },
     {
-        "Altura": "Gonzalez",
-        "Edad": "17 aÃ±os",
-        "Equipo": "UniÃ³n Santa Fe",
-        "Fecha_Nacimiento": "27-06-2001",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "Gaston Gonzalez",
-        "Pais": "Argentina",
-        "Posicion": "Gaston",
-        "Provincia": "Argentina"
-    },
-    {
         "Altura": "171 cm",
         "Edad": "21 aÃ±os",
         "Equipo": "UniÃ³n Santa Fe",
@@ -5146,6 +5113,17 @@
         "Pais": "Argentina",
         "Posicion": "Centrocampista",
         "Provincia": "Resistencia"
+    },
+    {
+        "Altura": "Gonzalez",
+        "Edad": "17 aÃ±os",
+        "Equipo": "UniÃ³n Santa Fe",
+        "Fecha_Nacimiento": "27-06-2001",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "Gaston Gonzalez",
+        "Pais": "Argentina",
+        "Posicion": "Gaston",
+        "Provincia": "Argentina"
     },
     {
         "Altura": "174 cm",
@@ -5203,15 +5181,26 @@
         "Provincia": "Argentina"
     },
     {
-        "Altura": "181 cm",
-        "Edad": "25 aÃ±os",
+        "Altura": "184 cm",
+        "Edad": "24 aÃ±os",
         "Equipo": "UniÃ³n Santa Fe",
-        "Fecha_Nacimiento": "03-03-1994",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Federico Oscar Andrada",
+        "Fecha_Nacimiento": "05-12-1994",
+        "Nacionalidad": "Uruguay",
+        "Nombre_Completo": "Ãscar Javier MÃ©ndez Albornoz",
+        "Pais": "Uruguay",
+        "Posicion": "Centrocampista",
+        "Provincia": "Montevideo"
+    },
+    {
+        "Altura": "CalderÃ³n",
+        "Edad": "21 aÃ±os",
+        "Equipo": "UniÃ³n Santa Fe",
+        "Fecha_Nacimiento": "13-05-1998",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "Franco Ezequiel CalderÃ³n",
         "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Carapachay"
+        "Posicion": "Franco Ezequiel",
+        "Provincia": "Argentina"
     },
     {
         "Altura": "172 cm",
@@ -5269,15 +5258,15 @@
         "Provincia": "Salto"
     },
     {
-        "Altura": "Hass",
-        "Edad": "21 aÃ±os",
-        "Equipo": "ColÃ³n",
-        "Fecha_Nacimiento": "27-03-1998",
-        "Nacionalidad": "Portero",
-        "Nombre_Completo": "Joaquin Fabricio Hass",
+        "Altura": "181 cm",
+        "Edad": "25 aÃ±os",
+        "Equipo": "UniÃ³n Santa Fe",
+        "Fecha_Nacimiento": "03-03-1994",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Federico Oscar Andrada",
         "Pais": "Argentina",
-        "Posicion": "Joaquin Fabricio",
-        "Provincia": "Argentina"
+        "Posicion": "Delantero",
+        "Provincia": "Carapachay"
     },
     {
         "Altura": "184 cm",
@@ -5302,37 +5291,15 @@
         "Provincia": "Melo"
     },
     {
-        "Altura": "Alex",
-        "Edad": "20 aÃ±os",
+        "Altura": "Hass",
+        "Edad": "21 aÃ±os",
         "Equipo": "ColÃ³n",
-        "Fecha_Nacimiento": "28-04-1999",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "Alex Vigo",
+        "Fecha_Nacimiento": "27-03-1998",
+        "Nacionalidad": "Portero",
+        "Nombre_Completo": "Joaquin Fabricio Hass",
         "Pais": "Argentina",
-        "Posicion": "175 cm",
+        "Posicion": "Joaquin Fabricio",
         "Provincia": "Argentina"
-    },
-    {
-        "Altura": "GarcÃ©s",
-        "Edad": "19 aÃ±os",
-        "Equipo": "ColÃ³n",
-        "Fecha_Nacimiento": "05-09-1999",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "Facundo TomÃ¡s GarcÃ©s",
-        "Pais": "Argentina",
-        "Posicion": "Facundo TomÃ¡s",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "188 cm",
-        "Edad": "33 aÃ±os",
-        "Equipo": "ColÃ³n",
-        "Fecha_Nacimiento": "28-12-1985",
-        "Nacionalidad": "Colombia",
-        "Nombre_Completo": "Andres Felipe Cadavid Cardona",
-        "Pais": "Colombia",
-        "Posicion": "Defensa",
-        "Provincia": "Bello"
     },
     {
         "Altura": "183 cm",
@@ -5412,26 +5379,37 @@
         "Provincia": "Capital Federal"
     },
     {
-        "Altura": "176 cm",
-        "Edad": "23 aÃ±os",
+        "Altura": "Alex",
+        "Edad": "20 aÃ±os",
         "Equipo": "ColÃ³n",
-        "Fecha_Nacimiento": "11-01-1996",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Leonardo MatÃ­as Heredia",
+        "Fecha_Nacimiento": "28-04-1999",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "Alex Vigo",
         "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Capital Federal"
+        "Posicion": "175 cm",
+        "Provincia": "Argentina"
     },
     {
-        "Altura": "175 cm",
-        "Edad": "28 aÃ±os",
+        "Altura": "GarcÃ©s",
+        "Edad": "19 aÃ±os",
         "Equipo": "ColÃ³n",
-        "Fecha_Nacimiento": "05-09-1990",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Franco Zuculini",
+        "Fecha_Nacimiento": "05-09-1999",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "Facundo TomÃ¡s GarcÃ©s",
         "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "La Rioja"
+        "Posicion": "Facundo TomÃ¡s",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "188 cm",
+        "Edad": "33 aÃ±os",
+        "Equipo": "ColÃ³n",
+        "Fecha_Nacimiento": "28-12-1985",
+        "Nacionalidad": "Colombia",
+        "Nombre_Completo": "Andres Felipe Cadavid Cardona",
+        "Pais": "Colombia",
+        "Posicion": "Defensa",
+        "Provincia": "Bello"
     },
     {
         "Altura": "163 cm",
@@ -5479,17 +5457,6 @@
     },
     {
         "Altura": "177 cm",
-        "Edad": "26 aÃ±os",
-        "Equipo": "ColÃ³n",
-        "Fecha_Nacimiento": "08-05-1993",
-        "Nacionalidad": "Colombia",
-        "Nombre_Completo": "Guillermo LeÃ³n Celis Montiel",
-        "Pais": "Colombia",
-        "Posicion": "Centrocampista",
-        "Provincia": "Sincelejo"
-    },
-    {
-        "Altura": "177 cm",
         "Edad": "40 aÃ±os",
         "Equipo": "ColÃ³n",
         "Fecha_Nacimiento": "20-12-1978",
@@ -5498,6 +5465,17 @@
         "Pais": "Argentina",
         "Posicion": "Centrocampista",
         "Provincia": "Gobernador Crespo"
+    },
+    {
+        "Altura": "177 cm",
+        "Edad": "26 aÃ±os",
+        "Equipo": "ColÃ³n",
+        "Fecha_Nacimiento": "08-05-1993",
+        "Nacionalidad": "Colombia",
+        "Nombre_Completo": "Guillermo LeÃ³n Celis Montiel",
+        "Pais": "Colombia",
+        "Posicion": "Centrocampista",
+        "Provincia": "Sincelejo"
     },
     {
         "Altura": "170 cm",
@@ -5522,26 +5500,26 @@
         "Provincia": "Argentina"
     },
     {
-        "Altura": "185 cm",
-        "Edad": "20 aÃ±os",
+        "Altura": "176 cm",
+        "Edad": "23 aÃ±os",
         "Equipo": "ColÃ³n",
-        "Fecha_Nacimiento": "30-03-1999",
+        "Fecha_Nacimiento": "11-01-1996",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "TomÃ¡s David Sandoval",
+        "Nombre_Completo": "Leonardo MatÃ­as Heredia",
         "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Santa Fe"
+        "Posicion": "Centrocampista",
+        "Provincia": "Capital Federal"
     },
     {
-        "Altura": "181 cm",
-        "Edad": "31 aÃ±os",
+        "Altura": "175 cm",
+        "Edad": "28 aÃ±os",
         "Equipo": "ColÃ³n",
-        "Fecha_Nacimiento": "21-09-1987",
-        "Nacionalidad": "Paraguay",
-        "Nombre_Completo": "Marcelo Alejandro Estigarribia Balmori",
-        "Pais": "Paraguay",
-        "Posicion": "Delantero",
-        "Provincia": "Fernando de la Mora"
+        "Fecha_Nacimiento": "05-09-1990",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Franco Zuculini",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "La Rioja"
     },
     {
         "Altura": "178 cm",
@@ -5632,6 +5610,39 @@
         "Provincia": "Argentina"
     },
     {
+        "Altura": "185 cm",
+        "Edad": "20 aÃ±os",
+        "Equipo": "ColÃ³n",
+        "Fecha_Nacimiento": "30-03-1999",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "TomÃ¡s David Sandoval",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "Santa Fe"
+    },
+    {
+        "Altura": "181 cm",
+        "Edad": "31 aÃ±os",
+        "Equipo": "ColÃ³n",
+        "Fecha_Nacimiento": "21-09-1987",
+        "Nacionalidad": "Paraguay",
+        "Nombre_Completo": "Marcelo Alejandro Estigarribia Balmori",
+        "Pais": "Paraguay",
+        "Posicion": "Delantero",
+        "Provincia": "Fernando de la Mora"
+    },
+    {
+        "Altura": "178 cm",
+        "Edad": "30 aÃ±os",
+        "Equipo": "Tigre",
+        "Fecha_Nacimiento": "07-02-1989",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Gonzalo Marinelli",
+        "Pais": "Argentina",
+        "Posicion": "Portero",
+        "Provincia": "JosÃ© C. Paz"
+    },
+    {
         "Altura": "81 kilogramos",
         "Edad": "22 aÃ±os",
         "Equipo": "Tigre",
@@ -5654,26 +5665,59 @@
         "Provincia": "Artigas"
     },
     {
-        "Altura": "178 cm",
-        "Edad": "30 aÃ±os",
+        "Altura": "184 cm",
+        "Edad": "34 aÃ±os",
         "Equipo": "Tigre",
-        "Fecha_Nacimiento": "07-02-1989",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Gonzalo Marinelli",
-        "Pais": "Argentina",
-        "Posicion": "Portero",
-        "Provincia": "JosÃ© C. Paz"
+        "Fecha_Nacimiento": "25-11-1984",
+        "Nacionalidad": "Uruguay",
+        "Nombre_Completo": "Gerardo Alcoba Rebollo",
+        "Pais": "Uruguay",
+        "Posicion": "Defensa",
+        "Provincia": "Montevideo"
     },
     {
-        "Altura": "RuÃ­z",
-        "Edad": "21 aÃ±os",
+        "Altura": "179 cm",
+        "Edad": "35 aÃ±os",
         "Equipo": "Tigre",
-        "Fecha_Nacimiento": "05-02-1998",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "Braian NicolÃ¡s RuÃ­z",
+        "Fecha_Nacimiento": "19-04-1984",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "NÃ©stor Emanuel Moiraghi",
         "Pais": "Argentina",
-        "Posicion": "Braian NicolÃ¡s",
-        "Provincia": "Argentina"
+        "Posicion": "Defensa",
+        "Provincia": "Cipoletti"
+    },
+    {
+        "Altura": "169 cm",
+        "Edad": "25 aÃ±os",
+        "Equipo": "Tigre",
+        "Fecha_Nacimiento": "27-09-1993",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Lucas Nahuel RodrÃ­guez",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Capital Federal (Argentina)"
+    },
+    {
+        "Altura": "180 cm",
+        "Edad": "31 aÃ±os",
+        "Equipo": "Tigre",
+        "Fecha_Nacimiento": "17-05-1988",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Alexis Jorge Niz",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Rafaela"
+    },
+    {
+        "Altura": "176 cm",
+        "Edad": "25 aÃ±os",
+        "Equipo": "Tigre",
+        "Fecha_Nacimiento": "09-02-1994",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "MatÃ­as PÃ©rez AcuÃ±a",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Capital Federal (Argentina)"
     },
     {
         "Altura": "175 cm",
@@ -5698,81 +5742,15 @@
         "Provincia": "Santa Fe"
     },
     {
-        "Altura": "184 cm",
-        "Edad": "34 aÃ±os",
+        "Altura": "RuÃ­z",
+        "Edad": "21 aÃ±os",
         "Equipo": "Tigre",
-        "Fecha_Nacimiento": "25-11-1984",
-        "Nacionalidad": "Uruguay",
-        "Nombre_Completo": "Gerardo Alcoba Rebollo",
-        "Pais": "Uruguay",
-        "Posicion": "Defensa",
-        "Provincia": "Montevideo"
-    },
-    {
-        "Altura": "169 cm",
-        "Edad": "25 aÃ±os",
-        "Equipo": "Tigre",
-        "Fecha_Nacimiento": "27-09-1993",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Lucas Nahuel RodrÃ­guez",
+        "Fecha_Nacimiento": "05-02-1998",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "Braian NicolÃ¡s RuÃ­z",
         "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Capital Federal (Argentina)"
-    },
-    {
-        "Altura": "179 cm",
-        "Edad": "35 aÃ±os",
-        "Equipo": "Tigre",
-        "Fecha_Nacimiento": "19-04-1984",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "NÃ©stor Emanuel Moiraghi",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Cipoletti"
-    },
-    {
-        "Altura": "180 cm",
-        "Edad": "30 aÃ±os",
-        "Equipo": "Tigre",
-        "Fecha_Nacimiento": "17-05-1988",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Alexis Jorge Niz",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Rafaela"
-    },
-    {
-        "Altura": "176 cm",
-        "Edad": "25 aÃ±os",
-        "Equipo": "Tigre",
-        "Fecha_Nacimiento": "09-02-1994",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "MatÃ­as PÃ©rez AcuÃ±a",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Capital Federal (Argentina)"
-    },
-    {
-        "Altura": "65 kilogramos",
-        "Edad": "20 aÃ±os",
-        "Equipo": "Tigre",
-        "Fecha_Nacimiento": "15-03-1999",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "Franco Bustamante",
-        "Pais": "Argentina",
-        "Posicion": "167 cm",
+        "Posicion": "Braian NicolÃ¡s",
         "Provincia": "Argentina"
-    },
-    {
-        "Altura": "182 cm",
-        "Edad": "32 aÃ±os",
-        "Equipo": "Tigre",
-        "Fecha_Nacimiento": "04-09-1986",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Leonardo SebastiÃ¡n Prediger",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Crespo (Argentina)"
     },
     {
         "Altura": "171 cm",
@@ -5808,17 +5786,6 @@
         "Provincia": "Beccar"
     },
     {
-        "Altura": "83 kilogramos",
-        "Edad": "28 aÃ±os",
-        "Equipo": "Tigre",
-        "Fecha_Nacimiento": "26-10-1990",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "Ezequiel Alejandro RodrÃ­guez",
-        "Pais": "Argentina",
-        "Posicion": "187 cm",
-        "Provincia": "Argentina"
-    },
-    {
         "Altura": "69 kilogramos",
         "Edad": "21 aÃ±os",
         "Equipo": "Tigre",
@@ -5827,6 +5794,17 @@
         "Nombre_Completo": "AgustÃ­n Cardozo",
         "Pais": "Argentina",
         "Posicion": "176 cm",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "83 kilogramos",
+        "Edad": "28 aÃ±os",
+        "Equipo": "Tigre",
+        "Fecha_Nacimiento": "26-10-1990",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "Ezequiel Alejandro RodrÃ­guez",
+        "Pais": "Argentina",
+        "Posicion": "187 cm",
         "Provincia": "Argentina"
     },
     {
@@ -5863,17 +5841,6 @@
         "Provincia": "Buenos Aires (Argentina)"
     },
     {
-        "Altura": "171 cm",
-        "Edad": "35 aÃ±os",
-        "Equipo": "Tigre",
-        "Fecha_Nacimiento": "14-04-1984",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Walter DamiÃ¡n Montillo",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Villa Modelo"
-    },
-    {
         "Altura": "180 cm",
         "Edad": "34 aÃ±os",
         "Equipo": "Tigre",
@@ -5885,15 +5852,37 @@
         "Provincia": "Castelar"
     },
     {
-        "Altura": "180 cm",
-        "Edad": "37 aÃ±os",
+        "Altura": "171 cm",
+        "Edad": "35 aÃ±os",
         "Equipo": "Tigre",
-        "Fecha_Nacimiento": "17-01-1982",
+        "Fecha_Nacimiento": "14-04-1984",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Carlos Ariel Luna",
+        "Nombre_Completo": "Walter DamiÃ¡n Montillo",
         "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "PiquillÃ­n"
+        "Posicion": "Centrocampista",
+        "Provincia": "Villa Modelo"
+    },
+    {
+        "Altura": "65 kilogramos",
+        "Edad": "20 aÃ±os",
+        "Equipo": "Tigre",
+        "Fecha_Nacimiento": "15-03-1999",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "Franco Bustamante",
+        "Pais": "Argentina",
+        "Posicion": "167 cm",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "182 cm",
+        "Edad": "32 aÃ±os",
+        "Equipo": "Tigre",
+        "Fecha_Nacimiento": "04-09-1986",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Leonardo SebastiÃ¡n Prediger",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Crespo (Argentina)"
     },
     {
         "Altura": "189 cm",
@@ -5951,6 +5940,17 @@
         "Provincia": "Jose C. Paz"
     },
     {
+        "Altura": "180 cm",
+        "Edad": "37 aÃ±os",
+        "Equipo": "Tigre",
+        "Fecha_Nacimiento": "17-01-1982",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Carlos Ariel Luna",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "PiquillÃ­n"
+    },
+    {
         "Altura": "187 cm",
         "Edad": "24 aÃ±os",
         "Equipo": "Belgrano",
@@ -5971,28 +5971,6 @@
         "Pais": "Argentina",
         "Posicion": "Portero",
         "Provincia": "San AgustÃ­n"
-    },
-    {
-        "Altura": "182 cm",
-        "Edad": "27 aÃ±os",
-        "Equipo": "Belgrano",
-        "Fecha_Nacimiento": "26-02-1992",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Luis Marcelo Herrera",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Ledesma"
-    },
-    {
-        "Altura": "187 cm",
-        "Edad": "35 aÃ±os",
-        "Equipo": "Belgrano",
-        "Fecha_Nacimiento": "19-01-1984",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Miguel Angel MartÃ­nez",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Buenos Aires"
     },
     {
         "Altura": "180 cm",
@@ -6028,17 +6006,6 @@
         "Provincia": "CÃ³rdoba (Argentina)"
     },
     {
-        "Altura": "Barbieri",
-        "Edad": "20 aÃ±os",
-        "Equipo": "Belgrano",
-        "Fecha_Nacimiento": "22-01-1999",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "Gino Barbieri",
-        "Pais": "Argentina",
-        "Posicion": "Gino",
-        "Provincia": "Argentina"
-    },
-    {
         "Altura": "180 cm",
         "Edad": "37 aÃ±os",
         "Equipo": "Belgrano",
@@ -6059,6 +6026,17 @@
         "Pais": "Paraguay",
         "Posicion": "Defensa",
         "Provincia": "AsunciÃ³n"
+    },
+    {
+        "Altura": "Barbieri",
+        "Edad": "20 aÃ±os",
+        "Equipo": "Belgrano",
+        "Fecha_Nacimiento": "22-01-1999",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "Gino Barbieri",
+        "Pais": "Argentina",
+        "Posicion": "Gino",
+        "Provincia": "Argentina"
     },
     {
         "Altura": "189 cm",
@@ -6094,37 +6072,26 @@
         "Provincia": "Montevideo"
     },
     {
-        "Altura": "175 cm",
-        "Edad": "26 aÃ±os",
+        "Altura": "182 cm",
+        "Edad": "27 aÃ±os",
         "Equipo": "Belgrano",
-        "Fecha_Nacimiento": "20-06-1992",
+        "Fecha_Nacimiento": "26-02-1992",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "CÃ©sar Marcelo Meli",
+        "Nombre_Completo": "Luis Marcelo Herrera",
         "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Salto (Argentina)"
+        "Posicion": "Defensa",
+        "Provincia": "Ledesma"
     },
     {
-        "Altura": "186 cm",
-        "Edad": "25 aÃ±os",
+        "Altura": "187 cm",
+        "Edad": "35 aÃ±os",
         "Equipo": "Belgrano",
-        "Fecha_Nacimiento": "16-03-1994",
+        "Fecha_Nacimiento": "19-01-1984",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Gabriel Alanis",
+        "Nombre_Completo": "Miguel Angel MartÃ­nez",
         "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "CÃ³rdoba (Argentina)"
-    },
-    {
-        "Altura": "85 kilogramos",
-        "Edad": "21 aÃ±os",
-        "Equipo": "Belgrano",
-        "Fecha_Nacimiento": "07-04-1998",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "Wilson Altamirano",
-        "Pais": "Argentina",
-        "Posicion": "188 cm",
-        "Provincia": "Argentina"
+        "Posicion": "Defensa",
+        "Provincia": "Buenos Aires"
     },
     {
         "Altura": "172 cm",
@@ -6182,25 +6149,36 @@
         "Provincia": "Mercedes (Argentina)"
     },
     {
-        "Altura": "179 cm",
-        "Edad": "24 aÃ±os",
+        "Altura": "175 cm",
+        "Edad": "26 aÃ±os",
         "Equipo": "Belgrano",
-        "Fecha_Nacimiento": "26-04-1995",
+        "Fecha_Nacimiento": "20-06-1992",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Leonardo Sequeira",
+        "Nombre_Completo": "CÃ©sar Marcelo Meli",
         "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "santiago del estero (argentina)"
+        "Posicion": "Centrocampista",
+        "Provincia": "Salto (Argentina)"
     },
     {
-        "Altura": "Garnerone",
-        "Edad": "20 aÃ±os",
+        "Altura": "186 cm",
+        "Edad": "25 aÃ±os",
         "Equipo": "Belgrano",
-        "Fecha_Nacimiento": "29-09-1998",
-        "Nacionalidad": "Delantero",
-        "Nombre_Completo": "MartÃ­n Garnerone",
+        "Fecha_Nacimiento": "16-03-1994",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Gabriel Alanis",
         "Pais": "Argentina",
-        "Posicion": "MartÃ­n",
+        "Posicion": "Centrocampista",
+        "Provincia": "CÃ³rdoba (Argentina)"
+    },
+    {
+        "Altura": "85 kilogramos",
+        "Edad": "21 aÃ±os",
+        "Equipo": "Belgrano",
+        "Fecha_Nacimiento": "07-04-1998",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "Wilson Altamirano",
+        "Pais": "Argentina",
+        "Posicion": "188 cm",
         "Provincia": "Argentina"
     },
     {
@@ -6215,17 +6193,6 @@
         "Provincia": "TumÃ¡co"
     },
     {
-        "Altura": "Lencina",
-        "Edad": "21 aÃ±os",
-        "Equipo": "Belgrano",
-        "Fecha_Nacimiento": "18-10-1997",
-        "Nacionalidad": "Delantero",
-        "Nombre_Completo": "Gonzalo Lencina",
-        "Pais": "Argentina",
-        "Posicion": "Gonzalo",
-        "Provincia": "Argentina"
-    },
-    {
         "Altura": "181 cm",
         "Edad": "28 aÃ±os",
         "Equipo": "Belgrano",
@@ -6237,6 +6204,17 @@
         "Provincia": "La Guaira-Edo. Vargas (Venezuela)"
     },
     {
+        "Altura": "Garnerone",
+        "Edad": "20 aÃ±os",
+        "Equipo": "Belgrano",
+        "Fecha_Nacimiento": "29-09-1998",
+        "Nacionalidad": "Delantero",
+        "Nombre_Completo": "MartÃ­n Garnerone",
+        "Pais": "Argentina",
+        "Posicion": "MartÃ­n",
+        "Provincia": "Argentina"
+    },
+    {
         "Altura": "65 kilogramos",
         "Edad": "17 aÃ±os",
         "Equipo": "Belgrano",
@@ -6246,6 +6224,17 @@
         "Pais": "EspaÃ±a",
         "Posicion": "172 cm",
         "Provincia": "EspaÃ±a"
+    },
+    {
+        "Altura": "Lencina",
+        "Edad": "21 aÃ±os",
+        "Equipo": "Belgrano",
+        "Fecha_Nacimiento": "18-10-1997",
+        "Nacionalidad": "Delantero",
+        "Nombre_Completo": "Gonzalo Lencina",
+        "Pais": "Argentina",
+        "Posicion": "Gonzalo",
+        "Provincia": "Argentina"
     },
     {
         "Altura": "170 cm",
@@ -6279,6 +6268,17 @@
         "Pais": "Argentina",
         "Posicion": "180 cm",
         "Provincia": "Argentina"
+    },
+    {
+        "Altura": "179 cm",
+        "Edad": "24 aÃ±os",
+        "Equipo": "Belgrano",
+        "Fecha_Nacimiento": "26-04-1995",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Leonardo Sequeira",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "santiago del estero (argentina)"
     },
     {
         "Altura": "188 cm",
@@ -6347,17 +6347,6 @@
         "Provincia": "Mendiolaza"
     },
     {
-        "Altura": "188 cm",
-        "Edad": "23 aÃ±os",
-        "Equipo": "Godoy Cruz",
-        "Fecha_Nacimiento": "10-10-1995",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "TomÃ¡s Cardona",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Buenos Aires"
-    },
-    {
         "Altura": "RodrÃ­guez",
         "Edad": "19 aÃ±os",
         "Equipo": "Godoy Cruz",
@@ -6367,6 +6356,17 @@
         "Pais": "Argentina",
         "Posicion": "Facundo",
         "Provincia": "Argentina"
+    },
+    {
+        "Altura": "188 cm",
+        "Edad": "23 aÃ±os",
+        "Equipo": "Godoy Cruz",
+        "Fecha_Nacimiento": "10-10-1995",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "TomÃ¡s Cardona",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Buenos Aires"
     },
     {
         "Altura": "189 cm",
@@ -6380,17 +6380,6 @@
         "Provincia": "CapiatÃ¡ (Paraguay)"
     },
     {
-        "Altura": "178 cm",
-        "Edad": "26 aÃ±os",
-        "Equipo": "Godoy Cruz",
-        "Fecha_Nacimiento": "19-02-1993",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Facundo Cobos",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Mendoza"
-    },
-    {
         "Altura": "73 kilogramos",
         "Edad": "21 aÃ±os",
         "Equipo": "Godoy Cruz",
@@ -6400,6 +6389,17 @@
         "Pais": "Argentina",
         "Posicion": "183 cm",
         "Provincia": "Argentina"
+    },
+    {
+        "Altura": "178 cm",
+        "Edad": "26 aÃ±os",
+        "Equipo": "Godoy Cruz",
+        "Fecha_Nacimiento": "19-02-1993",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Facundo Cobos",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Mendoza"
     },
     {
         "Altura": "169 cm",
@@ -6501,17 +6501,6 @@
         "Provincia": "Argentina"
     },
     {
-        "Altura": "64 kilogramos",
-        "Edad": "18 aÃ±os",
-        "Equipo": "Godoy Cruz",
-        "Fecha_Nacimiento": "29-09-2000",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "Enzo AgustÃ­n Manzur",
-        "Pais": "Argentina",
-        "Posicion": "169 cm",
-        "Provincia": "Argentina"
-    },
-    {
         "Altura": "GonzÃ¡lez",
         "Edad": "21 aÃ±os",
         "Equipo": "Godoy Cruz",
@@ -6520,6 +6509,17 @@
         "Nombre_Completo": "Franco MatÃ­as GonzÃ¡lez",
         "Pais": "Argentina",
         "Posicion": "Franco MatÃ­as",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "64 kilogramos",
+        "Edad": "18 aÃ±os",
+        "Equipo": "Godoy Cruz",
+        "Fecha_Nacimiento": "29-09-2000",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "Enzo AgustÃ­n Manzur",
+        "Pais": "Argentina",
+        "Posicion": "169 cm",
         "Provincia": "Argentina"
     },
     {
@@ -6653,6 +6653,314 @@
         "Pais": "Argentina",
         "Posicion": "Ezequiel Eduardo",
         "Provincia": "Argentina"
+    },
+    {
+        "Altura": "183 cm",
+        "Edad": "40 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "26-06-1978",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Cristian David Lucchetti",
+        "Pais": "Argentina",
+        "Posicion": "Portero",
+        "Provincia": "LujÃ¡n de Cuyo"
+    },
+    {
+        "Altura": "186 cm",
+        "Edad": "32 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "25-10-1986",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Alejandro Miguel SÃ¡nchez",
+        "Pais": "Argentina",
+        "Posicion": "Portero",
+        "Provincia": "Capital Federal (Argentina)"
+    },
+    {
+        "Altura": "183 cm",
+        "Edad": "22 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "29-05-1996",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Franco Pizzicanella",
+        "Pais": "Argentina",
+        "Posicion": "Portero",
+        "Provincia": "San Miguel de TucumÃ¡n"
+    },
+    {
+        "Altura": "195 cm",
+        "Edad": "30 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "06-05-1989",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Franco Sbuttoni",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Villa ConstituciÃ³n"
+    },
+    {
+        "Altura": "73 kilogramos",
+        "Edad": "23 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "05-11-1995",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "Gabriel Risso PatrÃ³n",
+        "Pais": "Argentina",
+        "Posicion": "179 cm",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "180 cm",
+        "Edad": "28 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "01-07-1990",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Pier Miqueas Barrios",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "CÃ³rdoba (Argentina)"
+    },
+    {
+        "Altura": "172 cm",
+        "Edad": "30 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "17-08-1988",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "JosÃ© Ignacio San RomÃ¡n Canciani",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "General San MartÃ­n"
+    },
+    {
+        "Altura": "183 cm",
+        "Edad": "30 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "17-02-1989",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Bruno Felix Bianchi Massey",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "San NicolÃ¡s"
+    },
+    {
+        "Altura": "188 cm",
+        "Edad": "35 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "16-01-1984",
+        "Nacionalidad": "Uruguay",
+        "Nombre_Completo": "AndrÃ©s Lamas Bervejillo",
+        "Pais": "Uruguay",
+        "Posicion": "Defensa",
+        "Provincia": "Montevideo"
+    },
+    {
+        "Altura": "81 kilogramos",
+        "Edad": "22 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "20-02-1997",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "Mauro Gabriel Osores",
+        "Pais": "Argentina",
+        "Posicion": "190 cm",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "184 cm",
+        "Edad": "29 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "09-04-1990",
+        "Nacionalidad": "Uruguay",
+        "Nombre_Completo": "MathÃ­as NicolÃ¡s Abero Villan",
+        "Pais": "Uruguay",
+        "Posicion": "Defensa",
+        "Provincia": "Montevideo"
+    },
+    {
+        "Altura": "188 cm",
+        "Edad": "27 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "10-05-1992",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Yonathan Emanuel Cabral",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Isidro Casanova"
+    },
+    {
+        "Altura": "178 cm",
+        "Edad": "25 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "24-10-1993",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Ramiro Angel Carrera",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Tolosa"
+    },
+    {
+        "Altura": "74 kilogramos",
+        "Edad": "19 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "05-03-2000",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "TomÃ¡s Esteban Cuello",
+        "Pais": "Argentina",
+        "Posicion": "176 cm",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "68 kilogramos",
+        "Edad": "22 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "17-03-1997",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "Tomas Rojas",
+        "Pais": "Paraguay",
+        "Posicion": "173 cm",
+        "Provincia": "Paraguay"
+    },
+    {
+        "Altura": "59 kilogramos",
+        "Edad": "18 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "21-08-2000",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "JonÃ¡s Samuel Romero",
+        "Pais": "Argentina",
+        "Posicion": "159 cm",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "184 cm",
+        "Edad": "26 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "23-01-1993",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Fabio Enrique Ãlvarez",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "CÃ³rdoba"
+    },
+    {
+        "Altura": "171 cm",
+        "Edad": "25 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "28-04-1994",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Claudio MartÃ­n Pombo",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "GualeguaychÃº"
+    },
+    {
+        "Altura": "179 cm",
+        "Edad": "24 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "22-02-1995",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "David Matias Barbona",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Buenos Aires"
+    },
+    {
+        "Altura": "187 cm",
+        "Edad": "31 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "29-01-1988",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Gervasio Daniel NÃºÃ±ez",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Formosa"
+    },
+    {
+        "Altura": "185 cm",
+        "Edad": "39 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "02-02-1980",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Juan Ignacio Mercier",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Campana"
+    },
+    {
+        "Altura": "179 cm",
+        "Edad": "29 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "05-09-1989",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Nery Francisco Leyes",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Ushuaia (Argentina)"
+    },
+    {
+        "Altura": "178 cm",
+        "Edad": "28 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "16-02-1991",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Rodrigo German Aliendro",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Merlo"
+    },
+    {
+        "Altura": "182 cm",
+        "Edad": "26 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "06-06-1992",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Leandro NicolÃ¡s DÃ­az",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "San Miguel de TucumÃ¡n"
+    },
+    {
+        "Altura": "180 cm",
+        "Edad": "36 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "06-08-1982",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Mauro Matos",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "Castelli"
+    },
+    {
+        "Altura": "185 cm",
+        "Edad": "33 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "24-04-1986",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Javier FabiÃ¡n Toledo",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "Marcos JuarÃ©z"
+    },
+    {
+        "Altura": "174 cm",
+        "Edad": "24 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "12-03-1995",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Juan Cruz Kaprof",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "Capital Federal"
+    },
+    {
+        "Altura": "176 cm",
+        "Edad": "32 aÃ±os",
+        "Equipo": "Atl.TucumÃ¡n",
+        "Fecha_Nacimiento": "26-02-1987",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Ricardo Daniel Noir",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "Villa Elisa"
     },
     {
         "Altura": "187 cm",
@@ -6963,314 +7271,6 @@
         "Provincia": "Argentina"
     },
     {
-        "Altura": "183 cm",
-        "Edad": "40 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "26-06-1978",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Cristian David Lucchetti",
-        "Pais": "Argentina",
-        "Posicion": "Portero",
-        "Provincia": "LujÃ¡n de Cuyo"
-    },
-    {
-        "Altura": "186 cm",
-        "Edad": "32 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "25-10-1986",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Alejandro Miguel SÃ¡nchez",
-        "Pais": "Argentina",
-        "Posicion": "Portero",
-        "Provincia": "Capital Federal (Argentina)"
-    },
-    {
-        "Altura": "183 cm",
-        "Edad": "22 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "29-05-1996",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Franco Pizzicanella",
-        "Pais": "Argentina",
-        "Posicion": "Portero",
-        "Provincia": "San Miguel de TucumÃ¡n"
-    },
-    {
-        "Altura": "81 kilogramos",
-        "Edad": "22 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "20-02-1997",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "Mauro Gabriel Osores",
-        "Pais": "Argentina",
-        "Posicion": "190 cm",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "184 cm",
-        "Edad": "29 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "09-04-1990",
-        "Nacionalidad": "Uruguay",
-        "Nombre_Completo": "MathÃ­as NicolÃ¡s Abero Villan",
-        "Pais": "Uruguay",
-        "Posicion": "Defensa",
-        "Provincia": "Montevideo"
-    },
-    {
-        "Altura": "188 cm",
-        "Edad": "27 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "10-05-1992",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Yonathan Emanuel Cabral",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Isidro Casanova"
-    },
-    {
-        "Altura": "195 cm",
-        "Edad": "30 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "06-05-1989",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Franco Sbuttoni",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Villa ConstituciÃ³n"
-    },
-    {
-        "Altura": "73 kilogramos",
-        "Edad": "23 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "05-11-1995",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "Gabriel Risso PatrÃ³n",
-        "Pais": "Argentina",
-        "Posicion": "179 cm",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "180 cm",
-        "Edad": "28 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "01-07-1990",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Pier Miqueas Barrios",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "CÃ³rdoba (Argentina)"
-    },
-    {
-        "Altura": "172 cm",
-        "Edad": "30 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "17-08-1988",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "JosÃ© Ignacio San RomÃ¡n Canciani",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "General San MartÃ­n"
-    },
-    {
-        "Altura": "183 cm",
-        "Edad": "30 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "17-02-1989",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Bruno Felix Bianchi Massey",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "San NicolÃ¡s"
-    },
-    {
-        "Altura": "188 cm",
-        "Edad": "35 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "16-01-1984",
-        "Nacionalidad": "Uruguay",
-        "Nombre_Completo": "AndrÃ©s Lamas Bervejillo",
-        "Pais": "Uruguay",
-        "Posicion": "Defensa",
-        "Provincia": "Montevideo"
-    },
-    {
-        "Altura": "179 cm",
-        "Edad": "29 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "05-09-1989",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Nery Francisco Leyes",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Ushuaia (Argentina)"
-    },
-    {
-        "Altura": "178 cm",
-        "Edad": "28 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "16-02-1991",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Rodrigo German Aliendro",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Merlo"
-    },
-    {
-        "Altura": "178 cm",
-        "Edad": "25 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "24-10-1993",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Ramiro Angel Carrera",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Tolosa"
-    },
-    {
-        "Altura": "74 kilogramos",
-        "Edad": "19 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "05-03-2000",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "TomÃ¡s Esteban Cuello",
-        "Pais": "Argentina",
-        "Posicion": "176 cm",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "68 kilogramos",
-        "Edad": "22 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "17-03-1997",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "Tomas Rojas",
-        "Pais": "Paraguay",
-        "Posicion": "173 cm",
-        "Provincia": "Paraguay"
-    },
-    {
-        "Altura": "59 kilogramos",
-        "Edad": "18 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "21-08-2000",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "JonÃ¡s Samuel Romero",
-        "Pais": "Argentina",
-        "Posicion": "159 cm",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "184 cm",
-        "Edad": "26 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "23-01-1993",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Fabio Enrique Ãlvarez",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "CÃ³rdoba"
-    },
-    {
-        "Altura": "179 cm",
-        "Edad": "24 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "22-02-1995",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "David Matias Barbona",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Buenos Aires"
-    },
-    {
-        "Altura": "171 cm",
-        "Edad": "25 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "28-04-1994",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Claudio MartÃ­n Pombo",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "GualeguaychÃº"
-    },
-    {
-        "Altura": "187 cm",
-        "Edad": "31 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "29-01-1988",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Gervasio Daniel NÃºÃ±ez",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Formosa"
-    },
-    {
-        "Altura": "185 cm",
-        "Edad": "39 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "02-02-1980",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Juan Ignacio Mercier",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Campana"
-    },
-    {
-        "Altura": "174 cm",
-        "Edad": "24 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "12-03-1995",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Juan Cruz Kaprof",
-        "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Capital Federal"
-    },
-    {
-        "Altura": "176 cm",
-        "Edad": "32 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "26-02-1987",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Ricardo Daniel Noir",
-        "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Villa Elisa"
-    },
-    {
-        "Altura": "182 cm",
-        "Edad": "26 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "06-06-1992",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Leandro NicolÃ¡s DÃ­az",
-        "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "San Miguel de TucumÃ¡n"
-    },
-    {
-        "Altura": "180 cm",
-        "Edad": "36 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "06-08-1982",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Mauro Matos",
-        "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Castelli"
-    },
-    {
-        "Altura": "185 cm",
-        "Edad": "33 aÃ±os",
-        "Equipo": "Atl.TucumÃ¡n",
-        "Fecha_Nacimiento": "24-04-1986",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Javier FabiÃ¡n Toledo",
-        "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Marcos JuarÃ©z"
-    },
-    {
         "Altura": "188 cm",
         "Edad": "37 aÃ±os",
         "Equipo": "MartÃ­n Juan",
@@ -7337,6 +7337,17 @@
         "Provincia": "Quilmes"
     },
     {
+        "Altura": "70 kilogramos",
+        "Edad": "19 aÃ±os",
+        "Equipo": "MartÃ­n Juan",
+        "Fecha_Nacimiento": "26-02-2000",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "Francisco Ãlvarez",
+        "Pais": "Argentina",
+        "Posicion": "180 cm",
+        "Provincia": "Argentina"
+    },
+    {
         "Altura": "84 kilogramos",
         "Edad": "24 aÃ±os",
         "Equipo": "MartÃ­n Juan",
@@ -7357,17 +7368,6 @@
         "Pais": "Argentina",
         "Posicion": "Defensa",
         "Provincia": "Buenos Aires"
-    },
-    {
-        "Altura": "70 kilogramos",
-        "Edad": "19 aÃ±os",
-        "Equipo": "MartÃ­n Juan",
-        "Fecha_Nacimiento": "26-02-2000",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "Francisco Ãlvarez",
-        "Pais": "Argentina",
-        "Posicion": "180 cm",
-        "Provincia": "Argentina"
     },
     {
         "Altura": "177 cm",
@@ -7656,17 +7656,6 @@
         "Provincia": "Reconquista (Argentina)"
     },
     {
-        "Altura": "178 cm",
-        "Edad": "21 aÃ±os",
-        "Equipo": "Defensa Justicia",
-        "Fecha_Nacimiento": "18-01-1998",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Lisandro MartÃ­nez",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Gualeguay"
-    },
-    {
         "Altura": "173 cm",
         "Edad": "23 aÃ±os",
         "Equipo": "Defensa Justicia",
@@ -7676,6 +7665,17 @@
         "Pais": "Argentina",
         "Posicion": "Defensa",
         "Provincia": "Buenos Aires"
+    },
+    {
+        "Altura": "178 cm",
+        "Edad": "21 aÃ±os",
+        "Equipo": "Defensa Justicia",
+        "Fecha_Nacimiento": "18-01-1998",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Lisandro MartÃ­nez",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Gualeguay"
     },
     {
         "Altura": "176 cm",
@@ -7810,6 +7810,17 @@
         "Provincia": "Buenos Aires"
     },
     {
+        "Altura": "167 cm",
+        "Edad": "24 aÃ±os",
+        "Equipo": "Defensa Justicia",
+        "Fecha_Nacimiento": "22-04-1995",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Domingo Felipe Blanco",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Punta Alta"
+    },
+    {
         "Altura": "170 cm",
         "Edad": "25 aÃ±os",
         "Equipo": "Defensa Justicia",
@@ -7841,17 +7852,6 @@
         "Pais": "Argentina",
         "Posicion": "Centrocampista",
         "Provincia": "Ciudad AutÃ³noma de Buenos Aires"
-    },
-    {
-        "Altura": "167 cm",
-        "Edad": "24 aÃ±os",
-        "Equipo": "Defensa Justicia",
-        "Fecha_Nacimiento": "22-04-1995",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Domingo Felipe Blanco",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Punta Alta"
     },
     {
         "Altura": "174 cm",
@@ -7887,6 +7887,17 @@
         "Provincia": "Argentina"
     },
     {
+        "Altura": "180 cm",
+        "Edad": "21 aÃ±os",
+        "Equipo": "Defensa Justicia",
+        "Fecha_Nacimiento": "20-09-1997",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "GastÃ³n Alberto Togni",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "Coronel Granada"
+    },
+    {
         "Altura": "165 cm",
         "Edad": "23 aÃ±os",
         "Equipo": "Defensa Justicia",
@@ -7907,17 +7918,6 @@
         "Pais": "Argentina",
         "Posicion": "Delantero",
         "Provincia": "Santa FÃ© (Argentina)"
-    },
-    {
-        "Altura": "180 cm",
-        "Edad": "21 aÃ±os",
-        "Equipo": "Defensa Justicia",
-        "Fecha_Nacimiento": "20-09-1997",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "GastÃ³n Alberto Togni",
-        "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Coronel Granada"
     },
     {
         "Altura": "176 cm",
@@ -7973,28 +7973,6 @@
         "Pais": "Argentina",
         "Posicion": "Portero",
         "Provincia": "Chovet"
-    },
-    {
-        "Altura": "74 kilogramos",
-        "Edad": "22 aÃ±os",
-        "Equipo": "Aldosivi",
-        "Fecha_Nacimiento": "16-09-1996",
-        "Nacionalidad": "Defensa",
-        "Nombre_Completo": "Emanuel IÃ±iguez",
-        "Pais": "Argentina",
-        "Posicion": "177 cm",
-        "Provincia": "Argentina"
-    },
-    {
-        "Altura": "173 cm",
-        "Edad": "30 aÃ±os",
-        "Equipo": "Aldosivi",
-        "Fecha_Nacimiento": "02-10-1988",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Ismael Alberto Quilez",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "Santa Fe"
     },
     {
         "Altura": "183 cm",
@@ -8085,48 +8063,26 @@
         "Provincia": "Florencio Varela (Argentina)"
     },
     {
-        "Altura": "178 cm",
-        "Edad": "30 aÃ±os",
+        "Altura": "74 kilogramos",
+        "Edad": "22 aÃ±os",
         "Equipo": "Aldosivi",
-        "Fecha_Nacimiento": "03-07-1988",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Juan Galeano",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Buenos Aires"
-    },
-    {
-        "Altura": "174 cm",
-        "Edad": "31 aÃ±os",
-        "Equipo": "Aldosivi",
-        "Fecha_Nacimiento": "15-01-1988",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Ezequiel Videla Greppi",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "CÃ³rdoba"
-    },
-    {
-        "Altura": "162 cm",
-        "Edad": "27 aÃ±os",
-        "Equipo": "Aldosivi",
-        "Fecha_Nacimiento": "13-12-1991",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "MatÃ­as Pisano",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Capital Federal (Argentina)"
-    },
-    {
-        "Altura": "66 kilogramos",
-        "Edad": "21 aÃ±os",
-        "Equipo": "Aldosivi",
-        "Fecha_Nacimiento": "09-09-1997",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "Juan Ignacio Silva",
+        "Fecha_Nacimiento": "16-09-1996",
+        "Nacionalidad": "Defensa",
+        "Nombre_Completo": "Emanuel IÃ±iguez",
         "Pais": "Argentina",
         "Posicion": "177 cm",
         "Provincia": "Argentina"
+    },
+    {
+        "Altura": "173 cm",
+        "Edad": "30 aÃ±os",
+        "Equipo": "Aldosivi",
+        "Fecha_Nacimiento": "02-10-1988",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Ismael Alberto Quilez",
+        "Pais": "Argentina",
+        "Posicion": "Defensa",
+        "Provincia": "Santa Fe"
     },
     {
         "Altura": "183 cm",
@@ -8228,26 +8184,48 @@
         "Provincia": "San MartÃ­n (Argentina)"
     },
     {
-        "Altura": "JuÃ¡rez",
-        "Edad": "17 aÃ±os",
+        "Altura": "178 cm",
+        "Edad": "30 aÃ±os",
         "Equipo": "Aldosivi",
-        "Fecha_Nacimiento": "20-03-2002",
-        "Nacionalidad": "Delantero",
-        "Nombre_Completo": "Yoel Gustavo JuÃ¡rez",
+        "Fecha_Nacimiento": "03-07-1988",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Juan Galeano",
         "Pais": "Argentina",
-        "Posicion": "Yoel Gustavo",
-        "Provincia": "Argentina"
+        "Posicion": "Centrocampista",
+        "Provincia": "Buenos Aires"
     },
     {
-        "Altura": "169 cm",
-        "Edad": "33 aÃ±os",
+        "Altura": "174 cm",
+        "Edad": "31 aÃ±os",
         "Equipo": "Aldosivi",
-        "Fecha_Nacimiento": "21-08-1985",
+        "Fecha_Nacimiento": "15-01-1988",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Facundo AndrÃ©s CastillÃ³n",
+        "Nombre_Completo": "Ezequiel Videla Greppi",
         "Pais": "Argentina",
-        "Posicion": "Delantero",
-        "Provincia": "Rosario (Argentina)"
+        "Posicion": "Centrocampista",
+        "Provincia": "CÃ³rdoba"
+    },
+    {
+        "Altura": "162 cm",
+        "Edad": "27 aÃ±os",
+        "Equipo": "Aldosivi",
+        "Fecha_Nacimiento": "13-12-1991",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "MatÃ­as Pisano",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Capital Federal (Argentina)"
+    },
+    {
+        "Altura": "66 kilogramos",
+        "Edad": "21 aÃ±os",
+        "Equipo": "Aldosivi",
+        "Fecha_Nacimiento": "09-09-1997",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "Juan Ignacio Silva",
+        "Pais": "Argentina",
+        "Posicion": "177 cm",
+        "Provincia": "Argentina"
     },
     {
         "Altura": "74 kilogramos",
@@ -8294,6 +8272,28 @@
         "Provincia": "Argentina"
     },
     {
+        "Altura": "JuÃ¡rez",
+        "Edad": "17 aÃ±os",
+        "Equipo": "Aldosivi",
+        "Fecha_Nacimiento": "20-03-2002",
+        "Nacionalidad": "Delantero",
+        "Nombre_Completo": "Yoel Gustavo JuÃ¡rez",
+        "Pais": "Argentina",
+        "Posicion": "Yoel Gustavo",
+        "Provincia": "Argentina"
+    },
+    {
+        "Altura": "169 cm",
+        "Edad": "33 aÃ±os",
+        "Equipo": "Aldosivi",
+        "Fecha_Nacimiento": "21-08-1985",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Facundo AndrÃ©s CastillÃ³n",
+        "Pais": "Argentina",
+        "Posicion": "Delantero",
+        "Provincia": "Rosario (Argentina)"
+    },
+    {
         "Altura": "187 cm",
         "Edad": "41 aÃ±os",
         "Equipo": "Patronato",
@@ -8325,17 +8325,6 @@
         "Pais": "Argentina",
         "Posicion": "Portero",
         "Provincia": "RÃ­o Cuarto"
-    },
-    {
-        "Altura": "183 cm",
-        "Edad": "32 aÃ±os",
-        "Equipo": "Patronato",
-        "Fecha_Nacimiento": "06-11-1986",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Bruno Samuel Urribarri",
-        "Pais": "Argentina",
-        "Posicion": "Defensa",
-        "Provincia": "General Campos"
     },
     {
         "Altura": "177 cm",
@@ -8448,37 +8437,15 @@
         "Provincia": "Argentina"
     },
     {
-        "Altura": "179 cm",
-        "Edad": "27 aÃ±os",
+        "Altura": "183 cm",
+        "Edad": "32 aÃ±os",
         "Equipo": "Patronato",
-        "Fecha_Nacimiento": "29-08-1991",
+        "Fecha_Nacimiento": "06-11-1986",
         "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Gabriel Carlos Compagnucci",
+        "Nombre_Completo": "Bruno Samuel Urribarri",
         "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "Monte Buey"
-    },
-    {
-        "Altura": "173 cm",
-        "Edad": "24 aÃ±os",
-        "Equipo": "Patronato",
-        "Fecha_Nacimiento": "15-01-1995",
-        "Nacionalidad": "Argentina",
-        "Nombre_Completo": "Lautaro Comas",
-        "Pais": "Argentina",
-        "Posicion": "Centrocampista",
-        "Provincia": "ParanÃ¡"
-    },
-    {
-        "Altura": "Nievas",
-        "Edad": "21 aÃ±os",
-        "Equipo": "Patronato",
-        "Fecha_Nacimiento": "28-04-1998",
-        "Nacionalidad": "Centrocampista",
-        "Nombre_Completo": "Brian Nievas",
-        "Pais": "Argentina",
-        "Posicion": "Brian",
-        "Provincia": "Argentina"
+        "Posicion": "Defensa",
+        "Provincia": "General Campos"
     },
     {
         "Altura": "185 cm",
@@ -8567,6 +8534,39 @@
         "Pais": "Argentina",
         "Posicion": "Centrocampista",
         "Provincia": "GonzÃ¡lez CatÃ¡n"
+    },
+    {
+        "Altura": "179 cm",
+        "Edad": "27 aÃ±os",
+        "Equipo": "Patronato",
+        "Fecha_Nacimiento": "29-08-1991",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Gabriel Carlos Compagnucci",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "Monte Buey"
+    },
+    {
+        "Altura": "173 cm",
+        "Edad": "24 aÃ±os",
+        "Equipo": "Patronato",
+        "Fecha_Nacimiento": "15-01-1995",
+        "Nacionalidad": "Argentina",
+        "Nombre_Completo": "Lautaro Comas",
+        "Pais": "Argentina",
+        "Posicion": "Centrocampista",
+        "Provincia": "ParanÃ¡"
+    },
+    {
+        "Altura": "Nievas",
+        "Edad": "21 aÃ±os",
+        "Equipo": "Patronato",
+        "Fecha_Nacimiento": "28-04-1998",
+        "Nacionalidad": "Centrocampista",
+        "Nombre_Completo": "Brian Nievas",
+        "Pais": "Argentina",
+        "Posicion": "Brian",
+        "Provincia": "Argentina"
     },
     {
         "Altura": "Franzoni",
